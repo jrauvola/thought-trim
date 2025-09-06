@@ -1,5 +1,6 @@
 # ThoughtTrim: Anchor-Driven Prompt Compression
 Optimize training and inference by discovering “thought anchors,” reinforcing only strong reasoning steps, and compressing prompts so agents follow anchors not meandering chains of thought.
+
 *Inspired by “Thought Anchors: Which LLM Reasoning Steps Matter?” (Bogdan, Macar, Nanda, Conmy, 2025).*
 
 # Why this exists

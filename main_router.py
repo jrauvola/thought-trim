@@ -66,7 +66,11 @@ if __name__ == "__main__":
     processor = ReasoningProcessor()
     models = processor.get_available_models()
     if models:
-        result = processor.process_question("Why is the sky blue?", models[0])
+        result = processor.process_question(
+            "Think through this step by step: How do neural networks learn?", 
+            "qwen2.5:0.5b", 
+            "sentence"
+        )
         print(f"Success: {result['success']}")
         print(f"Thinking sections: {len(result['thinking_sections'])}")
         print(f"Total segments: {result['total_segments']}")

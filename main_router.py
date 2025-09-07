@@ -49,6 +49,7 @@ class ReasoningProcessor:
             result["segmented_thinking"] = segmented_thinking
             result["total_segments"] = sum(len(segments) for segments in segmented_thinking)
             result["success"] = True
+            result["segmented_thinking"] = segmented_thinking
             
         except Exception as e:
             result["error"] = str(e)
@@ -68,11 +69,12 @@ if __name__ == "__main__":
     if models:
         result = processor.process_question(
             "Think through this step by step: How do neural networks learn?", 
-            "qwen2.5:0.5b", 
+            "gpt-oss:20b",
             "sentence"
         )
         print(f"Success: {result['success']}")
         print(f"Thinking sections: {len(result['thinking_sections'])}")
         print(f"Total segments: {result['total_segments']}")
+        print(f"Segmented thinking:", result['segmented_thinking'])
     else:
         print("No models available")

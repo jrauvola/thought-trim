@@ -13,7 +13,7 @@ class ThinkingExtractor:
             r'Thinking:(.*?)(?=\n\n|\nAnswer:|$)',
             r'My reasoning:(.*?)(?=\n\n|\nConclusion:|$)',
         ]
-    
+
     def extract_thinking_sections(self, text: str) -> List[str]:
         thinking_sections = []
         for pattern in self.thinking_patterns:
@@ -23,8 +23,11 @@ class ThinkingExtractor:
                 if cleaned and len(cleaned.strip()) > 10:
                     thinking_sections.append(cleaned)
         return thinking_sections
-    
+
     def extract_from_response(self, response_dict: Dict) -> List[str]:
+        if "thinking" in response_dict:
+          return [response_dict["thinking"]]
+
         if "error" in response_dict:
             return []
         response_text = response_dict.get("response", "")

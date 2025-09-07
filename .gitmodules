@@ -1,0 +1,4 @@
+[submodule "thought-anchors"]
+	path = thought-anchors
+	url = git@github.com:andrewbriand/thought-anchors.git
+	branch = abriand_ollama

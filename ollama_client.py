@@ -15,8 +15,8 @@ class OllamaClient:
         except requests.RequestException as e:
             return {"error": f"Failed to list models: {str(e)}"}
     
-    def generate_response(self, model: str, prompt: str) -> Dict[str, Any]:
-        payload = {"model": model, "prompt": prompt, "stream": False}
+    def generate_response(self, model: str, prompt: str, eval_options: Dict) -> Dict[str, Any]:
+        payload = {"model": model, "prompt": prompt, "stream": False} | eval_options
         try:
             response = requests.post(f"{self.api_url}/generate", json=payload, timeout=120)
             response.raise_for_status()

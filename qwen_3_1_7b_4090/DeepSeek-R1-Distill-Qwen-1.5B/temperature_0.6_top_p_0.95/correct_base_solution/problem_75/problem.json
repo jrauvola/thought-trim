@@ -1,0 +1,4 @@
+{
+  "problem": "In a simple ecosystem there exists a field of clover. Mice eat theclover and skunks eat the mice. The skunks are in turn eatenby wolves. According to the ten percent rule of ecologicalefficiency, how much energy would a wolf receive fromthe original clover plants?\n\nA. 0.01 calories\n\nB. 5 calories\n\nC. 100 calories\n\nD. 0.1 calories\n\nE. 50 calories\n\nF. 10 calories\n\nG. 1,000 calories\n\nH. 500 calories\n\nI. 25 calories\n\nJ. 1 calorie",
+  "gt_answer": "F"
+}

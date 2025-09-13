@@ -1,0 +1,4 @@
+{
+  "problem": "What problems are posed in referring to the many forms of protozoans as belonging to one single animal phylum?\n\nA. Protozoans can be classified into only two distinct groups based on mobility.\n\nB. Protozoans all live in similar habitats, which negates the need for diverse classification.\n\nC. Protozoans exhibit extreme diversity, taxonomic organization is problematic, and they possess certain plant-like features.\n\nD. Protozoans are a type of bacteria, making their classification straightforward.\n\nE. Protozoans are all the same\n\nF. All protozoans have a similar genetic makeup, which simplifies classification.\n\nG. Protozoans are easy to classify\n\nH. Protozoans are multicellular organisms, which makes them easier to classify into one phylum.\n\nI. The term 'protozoan' refers to a single species with little variation, thus one phylum is sufficient.\n\nJ. Protozoans only possess animal-like features",
+  "gt_answer": "C"
+}

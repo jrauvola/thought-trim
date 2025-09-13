@@ -105,23 +105,23 @@ class ModelEvaluator:
         if model_type == "reasoning":
             return f"""CRITICAL: Respond with JSON matching this schema EXACTLY.
 
-Schema: {json.dumps(schema)}
+                Schema: {json.dumps(schema)}
 
-Question {question_id}: {question}
+                Question {question_id}: {question}
 
-Options:
-{chr(10).join(formatted_options)}
+                Options:
+                {chr(10).join(formatted_options)}
 
-Return ONLY valid JSON: {{"thinking": "...", "answer": "{valid_answers[0]}"}}"""
+                Return ONLY valid JSON: {{"thinking": "...", "answer": "{valid_answers[0]}"}}"""
         else:
             return f"""CRITICAL: Return ONLY JSON.
 
-Question: {question}
+                Question: {question}
 
-Options:
-{chr(10).join(formatted_options)}
+                Options:
+                {chr(10).join(formatted_options)}
 
-Return JSON: {{"answer": "X"}} where X is one of: {', '.join(valid_answers)}"""
+                Return JSON: {{"answer": "X"}} where X is one of: {', '.join(valid_answers)}"""
     
     def extract_answer_robust(self, text: str, valid_options: List[str]) -> Tuple[str, str]:
         # JSON parsing

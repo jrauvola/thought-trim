@@ -101,6 +101,11 @@ class ModelEvaluator:
         for i, option in enumerate(options[:len(option_labels)]):
             formatted_options.append(f"{option_labels[i]}) {option}")
             valid_answers.append(option_labels[i])
+
+        prompt = f"Think through this step-by-step:\n{question}\nOptions:\n{chr(10).join(formatted_options)}\n\nAnswer with ONLY a SINGLE letter. Answer:"
+        print(prompt)
+        return prompt
+          
         
         if model_type == "reasoning":
             return f"""CRITICAL: Respond with JSON matching this schema EXACTLY.
@@ -172,11 +177,17 @@ class ModelEvaluator:
                     "temperature": 0.3 if attempt == 0 else 0.5,
                     "top_p": 1.0,
                     "num_predict": 500,
-                    "format": schema
+                    #"format": schema
                 }
                 eval_options.update(model_config.options)
+                eval_options["think"] = False
+                print("think:", eval_options["think"])
                 
                 response = self.client.generate_response(model_config.name, prompt, eval_options)
+                print("<think>")
+                print(response['thinking'] if 'thinking' in response else "")
+                print("</think>")
+                print(response['response'])
                 
                 if "error" not in response:
                     if attempt > 0:
@@ -232,9 +243,10 @@ class ModelEvaluator:
             if not result["success"]:
                 if verbose:
                     print(f"Q{i:3d}: ❌ API ERROR")
+                    print(result)
                 results["errors"] += 1
                 continue
-            
+
             raw_output = result["response"]
             
             # Extract answer

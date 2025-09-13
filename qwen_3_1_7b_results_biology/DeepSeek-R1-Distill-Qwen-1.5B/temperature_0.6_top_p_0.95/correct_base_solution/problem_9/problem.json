@@ -1,0 +1,4 @@
+{
+  "problem": "An inexperienced nurse measures the blood pressure in the artery of the upper arm of a man. She then measures the blood pressure in the artery of the man's leg. The nurse obtains a different value. Why?\n\nA. The man's leg has a different heart rate\n\nB. The arm and leg measurements differ because of a temporary blockage in the leg artery\n\nC. The blood pressure decreases as the blood moves further away from the heart\n\nD. The different readings are due to the man's varying stress levels\n\nE. The man was standing during the leg measurement, affecting the result\n\nF. The leg artery was constricted, leading to a higher reading\n\nG. The blood pressure is always the same in all parts of the body\n\nH. The nurse made a measurement error\n\nI. The blood pressure is higher in the leg due to increased muscle activity\n\nJ. The leg artery naturally has higher pressure due to gravity",
+  "gt_answer": "C"
+}

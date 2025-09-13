@@ -1,0 +1,4 @@
+{
+  "problem": "We know that radiation and chemicals can cause cancer. Can viruses be a cause of cancer?\n\nA. Only radiation can cause cancer\n\nB. Only chemicals can cause cancer\n\nC. Only inherited genetics can cause cancer\n\nD. Only lifestyle factors such as diet and exercise can cause cancer\n\nE. Yes, viruses can be a cause of cancer\n\nF. No, viruses cannot cause cancer\n\nG. Viruses can increase the risk but are not a direct cause of cancer\n\nH. Yes, but only bacteria, not viruses, can be a cause of cancer",
+  "gt_answer": "E"
+}

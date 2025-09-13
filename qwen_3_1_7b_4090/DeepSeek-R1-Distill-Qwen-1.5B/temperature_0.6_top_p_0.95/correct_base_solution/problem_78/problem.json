@@ -1,0 +1,4 @@
+{
+  "problem": "Assume there is an organism in which there are five contrasting independent gene pairs, A vs. a, B vs. b, D vs. d, E vs. e and F vs. f, for which the organism is heterozygous. If the organism were able to undergo self-fertilization, (a) what is the probability that the first progeny will have a genotype identical to that of the parent? (b) what proportion of the total progeny will be homozygous? (c) assuming complete dominance for each gene pair, what proportion of the total progeny will phenotypically exhibit the dominant form for the five characters?\n\nA. 1/1024, 1/1024, 1023/1,024\n\nB. 1/16, 3/16, 729/1,024\n\nC. 1/4, 1/4, 512/1,024\n\nD. 1/8, 1/8, 121/1,024\n\nE. 1/32, 1/32, 243/1,024\n\nF. 1/16, 1/16, 81/1,024\n\nG. 1/64, 1/4, 342/1,024\n\nH. 1/2, 1/2, 1/1,024\n\nI. 1/32, 1/64, 255/1,024\n\nJ. 1/4, 1/8, 961/1,024",
+  "gt_answer": "E"
+}

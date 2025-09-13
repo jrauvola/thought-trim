@@ -1,0 +1,4 @@
+{
+  "problem": "A dominant trait has a fitness of 0.6. The frequency in a population of this trait is 1 in 8,000. What is the mutation rate?\n\nA. 2.5 \u00d7 10^-5\n\nB. 1.5 \u00d7 10^-5\n\nC. 3.0 \u00d7 10^-5\n\nD. 4.0 \u00d7 10^-5\n\nE. 5.0 \u00d7 10^-5\n\nF. 1.0 \u00d7 10^-5\n\nG. 1.2 \u00d7 10^-5\n\nH. 2.0 \u00d7 10^-5\n\nI. 6.0 \u00d7 10^-5\n\nJ. 3.5 \u00d7 10^-5",
+  "gt_answer": "A"
+}

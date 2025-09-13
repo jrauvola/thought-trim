@@ -1,0 +1,4 @@
+{
+  "problem": "Besides temperature, what other physical conditions must be taken into account for the growth of bacteria?\n\nA. Levels of oxygen, acidity or alkalinity of the medium\n\nB. Temperature changes, light exposure\n\nC. Atmospheric pressure, noise levels\n\nD. Nitrogen levels, radiation exposure\n\nE. Soil texture, light wavelength\n\nF. Levels of carbon dioxide, humidity\n\nG. Water activity, presence of specific nutrients\n\nH. Magnetic fields, altitude\n\nI. Barometric pressure, salinity of water\n\nJ. Light exposure, humidity",
+  "gt_answer": "A"
+}

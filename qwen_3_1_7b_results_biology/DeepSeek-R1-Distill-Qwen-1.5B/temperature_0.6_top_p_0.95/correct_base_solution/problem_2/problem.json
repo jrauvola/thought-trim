@@ -1,0 +1,4 @@
+{
+  "problem": "A male bacterium conjugates with a female bacterium. After conjugation, the female becomes a male. Account for this \"sexchange\".\n\nA. The female bacterium becomes a male as a result of nutrient deficiency\n\nB. The female becomes a male by receiving one copy of the F factor\n\nC. The female bacterium becomes a male through the process of osmosis\n\nD. The female bacterium becomes a male through gene mutation\n\nE. The female bacterium becomes a male after receiving multiple copies of non-F factor genes\n\nF. The female bacterium becomes a male through binary fission\n\nG. The female bacterium becomes a male by incorporating a plasmid unrelated to the F factor\n\nH. The female bacterium becomes a male after exposure to antibiotics\n\nI. The female bacterium becomes a male due to a viral infection\n\nJ. The female bacterium becomes a male due to environmental factors",
+  "gt_answer": "B"
+}

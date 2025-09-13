@@ -1,0 +1,4 @@
+{
+  "problem": "A gal^+ / gal^- cell is produced by an abortive transduction. Will it grow in a medium in whichgalactoseis the sole carbon source?\n\nA. The colony does not grow at all.\n\nB. The resulting colony is minute.\n\nC. The colony grows slowly, reaching average size eventually.\n\nD. The colony grows but is unable to utilize galactose efficiently.\n\nE. The colony grows to an unusually large size before ceasing growth.\n\nF. The colony grows initially but then stops abruptly.\n\nG. The resulting colony is large.\n\nH. The colony exhibits fluctuating growth rates.\n\nI. The colony grows rapidly, surpassing average size.\n\nJ. The resulting colony is average in size.",
+  "gt_answer": "B"
+}

@@ -1,0 +1,4 @@
+{
+  "problem": "A deck of playing cards is thoroughly shuffled and a card is drawn from the deck. What is the probability that the card drawn is the ace of diamonds?\n\nA. 1/53\n\nB. 3/52\n\nC. 2/51\n\nD. 2/52\n\nE. 4/52\n\nF. 1/50\n\nG. 1/13\n\nH. 1/52\n\nI. 1/26\n\nJ. 1/51",
+  "gt_answer": "H"
+}

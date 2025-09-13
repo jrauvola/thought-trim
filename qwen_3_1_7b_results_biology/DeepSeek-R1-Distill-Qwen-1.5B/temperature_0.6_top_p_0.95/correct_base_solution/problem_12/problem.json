@@ -1,0 +1,4 @@
+{
+  "problem": "The leaf colors resulting from crosses between different branches on variegated Mirabilisjalapa(\\textquotedblleftfour o'clock\\textquotedblright) plants are shown below: Branch of Origin of the Male parent Branch of Origin of the Female parent Progeny Green Green Pale Variegated Green Pale Green, pale, variegated Pale Green Pale Variegated Green Pale Green, pale, variegated Variegated Green Pale Variegated Green Pale Green, pale, variegated What is the most likely mode of inheritance?\n\nA. Environmental influence inheritance\n\nB. Random segregation inheritance\n\nC. Epigenetic inheritance\n\nD. Genetic inheritance\n\nE. Bilateral inheritance\n\nF. Pollen inheritance\n\nG. Mendelian dominant-recessive inheritance\n\nH. Cytoplasmic (maternal) inheritance\n\nI. Paternal inheritance\n\nJ. Multifactorial inheritance",
+  "gt_answer": "H"
+}

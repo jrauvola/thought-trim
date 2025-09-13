@@ -1,0 +1,4 @@
+{
+  "problem": "A scientist carries out a cross between two guinea pigs, both of which have black coats. Black hair coat is dominant over white hair coat. Three quarters of the offspring have black coats, and one quarter have white coats. The genotypes of the parents were most likely\n\nA. Bb \u00d7 Bb\n\nB. BB \u00d7 BB and Bb \u00d7 bb\n\nC. bb \u00d7 Bb\n\nD. bb \u00d7 bb\n\nE. bb \u00d7 BB\n\nF. Bb \u00d7 bb\n\nG. Bb \u00d7 BB\n\nH. BB \u00d7 Bb\n\nI. BB \u00d7 bb\n\nJ. BB \u00d7 BB",
+  "gt_answer": "A"
+}

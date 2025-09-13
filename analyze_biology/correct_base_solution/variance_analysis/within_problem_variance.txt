@@ -1,0 +1,2530 @@
+Problems with high variance in chunk importance (potential reasoning forks):
+
+Problem 39:
+  Overall variance: 0.056813
+  Mean importance: -0.052051
+  Potential fork reasoning steps:
+    Chunk 15:
+      Importance: -0.900000 (z-score: -3.56)
+      Function tags: unknown
+      Text: D. Produce H+ to maintain balance.
+
+    Chunk 13:
+      Importance: -0.746885 (z-score: -2.92)
+      Function tags: unknown
+      Text: B. Regulate H+ by excreting acids or bases when levels change.
+
+Problem 31:
+  Overall variance: 0.042239
+  Mean importance: -0.041783
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: -0.890000 (z-score: -4.13)
+      Function tags: unknown
+      Text: Okay, so I need to figure out whether viruses can be a cause of cancer based on the given options.
+
+    Chunk 13:
+      Importance: -0.430000 (z-score: -1.89)
+      Function tags: unknown
+      Text: - Option C states only inherited genetics can cause cancer.
+
+Problem 97:
+  Overall variance: 0.033896
+  Mean importance: -0.044070
+  Potential fork reasoning steps:
+    Chunk 8:
+      Importance: -0.860000 (z-score: -4.43)
+      Function tags: unknown
+      Text: Now, we need to find out what percentage of students are heterozygous, meaning they have one T and o...
+
+Problem 82:
+  Overall variance: 0.030339
+  Mean importance: 0.033396
+  Potential fork reasoning steps:
+    Chunk 18:
+      Importance: 0.610000 (z-score: 3.31)
+      Function tags: unknown
+      Text: Option G introduces a group of genes controlling stem cell growth.
+
+    Chunk 27:
+      Importance: -0.510000 (z-score: -3.12)
+      Function tags: unknown
+      Text: So an organiser in this context might refer to those signaling molecules.
+
+    Chunk 24:
+      Importance: 0.490000 (z-score: 2.62)
+      Function tags: unknown
+      Text: Option J refers to managing genetic material.
+
+    Chunk 7:
+      Importance: -0.320412 (z-score: -2.03)
+      Function tags: unknown
+      Text: Option B mentions organizing tasks.
+
+    Chunk 13:
+      Importance: 0.340000 (z-score: 1.76)
+      Function tags: unknown
+      Text: Option E describes a DNA region initiating replication.
+
+Problem 47:
+  Overall variance: 0.030076
+  Mean importance: -0.021129
+  Potential fork reasoning steps:
+    Chunk 28:
+      Importance: -0.634419 (z-score: -3.54)
+      Function tags: unknown
+      Text: Option I says insemination is joining, which again contradicts because insemination is about the spe...
+
+    Chunk 12:
+      Importance: -0.422069 (z-score: -2.31)
+      Function tags: unknown
+      Text: Option A says copulation is joining, insemination is semen deposition, and fertilization is gamete u...
+
+    Chunk 13:
+      Importance: -0.363448 (z-score: -1.97)
+      Function tags: unknown
+      Text: That seems correct based on my understanding.
+
+    Chunk 11:
+      Importance: 0.271875 (z-score: 1.69)
+      Function tags: unknown
+      Text: Looking at the options:
+
+Problem 84:
+  Overall variance: 0.028334
+  Mean importance: -0.044792
+  Potential fork reasoning steps:
+    Chunk 2:
+      Importance: -0.670000 (z-score: -3.71)
+      Function tags: unknown
+      Text: First, I remember that when an organism releases chemicals to affect others, it's called a pheromone...
+
+Problem 16:
+  Overall variance: 0.027434
+  Mean importance: -0.024328
+  Potential fork reasoning steps:
+    Chunk 34:
+      Importance: -0.920149 (z-score: -5.41)
+      Function tags: unknown
+      Text: H. Corrects the meanings and addresses the conifer vs flowering part accurately.
+
+    Chunk 37:
+      Importance: 0.389798 (z-score: 2.50)
+      Function tags: unknown
+      Text: Wait, J says coniferous plants have evergreen foliage and fruit instead of cones, which aligns bette...
+
+    Chunk 38:
+      Importance: -0.290549 (z-score: -1.61)
+      Function tags: unknown
+      Text: So the correct answer would probably be H or J.
+
+Problem 63:
+  Overall variance: 0.027274
+  Mean importance: -0.017481
+  Potential fork reasoning steps:
+    Chunk 57:
+      Importance: 0.670000 (z-score: 4.16)
+      Function tags: unknown
+      Text: But none of the options exactly match that.
+
+    Chunk 54:
+      Importance: -0.441918 (z-score: -2.57)
+      Function tags: unknown
+      Text: Looking at option I:
+- Structural genes code for RNA poly, regulatory for repressors, operator contr...
+
+    Chunk 35:
+      Importance: 0.356566 (z-score: 2.26)
+      Function tags: unknown
+      Text: Wait, let me clarify the roles again:
+1.
+
+    Chunk 59:
+      Importance: -0.376667 (z-score: -2.17)
+      Function tags: unknown
+      Text: Option I: Structural genes code for RNA poly, regulatory genes control groups of structural genes, o...
+
+    Chunk 41:
+      Importance: -0.330000 (z-score: -1.89)
+      Function tags: unknown
+      Text: 4. Structural genes: Enzymes or proteins that help RNA poly function, such as those involved in reco...
+
+    Chunk 55:
+      Importance: -0.303043 (z-score: -1.73)
+      Function tags: unknown
+      Text: That seems more accurate.
+
+    Chunk 60:
+      Importance: -0.295918 (z-score: -1.69)
+      Function tags: unknown
+      Text: Yes, that matches my understanding.
+
+    Chunk 29:
+      Importance: 0.252766 (z-score: 1.64)
+      Function tags: unknown
+      Text: Hmm, no, I think RNA poly is bound by regulatory genes, not the other way around.
+
+Problem 70:
+  Overall variance: 0.027264
+  Mean importance: -0.016093
+  Potential fork reasoning steps:
+    Chunk 37:
+      Importance: -0.710000 (z-score: -4.20)
+      Function tags: unknown
+      Text: So, between A, G, and possibly B.
+
+    Chunk 9:
+      Importance: -0.377071 (z-score: -2.19)
+      Function tags: unknown
+      Text: They seem relevant here because the biologist would measure cells at such a tiny scale.
+
+    Chunk 10:
+      Importance: 0.316667 (z-score: 2.02)
+      Function tags: unknown
+      Text: B. Meter, kilogram, second.
+
+    Chunk 25:
+      Importance: 0.290000 (z-score: 1.85)
+      Function tags: unknown
+      Text: However, F lists only two units, while others might have more precise subdivisions.
+
+    Chunk 39:
+      Importance: -0.313333 (z-score: -1.80)
+      Function tags: unknown
+      Text: Between them, A uses micrometers and angstroms, which are the smallest units commonly used in biolog...
+
+Problem 40:
+  Overall variance: 0.027070
+  Mean importance: -0.029602
+  Potential fork reasoning steps:
+    Chunk 4:
+      Importance: -0.790000 (z-score: -4.62)
+      Function tags: unknown
+      Text: Option A says that glucose is the primary source of energy for all cells, can be converted to glycog...
+
+    Chunk 19:
+      Importance: 0.354545 (z-score: 2.33)
+      Function tags: unknown
+      Text: Yes, that makes sense.
+
+    Chunk 1:
+      Importance: 0.245000 (z-score: 1.67)
+      Function tags: unknown
+      Text: The user has provided a list of options from A to J, each making a statement about how glucose is us...
+
+    Chunk 21:
+      Importance: -0.277143 (z-score: -1.50)
+      Function tags: unknown
+      Text: However, some cells may have alternative energy sources, so maybe this isn't the absolute answer.
+
+Problem 64:
+  Overall variance: 0.025570
+  Mean importance: -0.009151
+  Potential fork reasoning steps:
+    Chunk 26:
+      Importance: -0.570000 (z-score: -3.51)
+      Function tags: unknown
+      Text: Option E says it's when veins harden due to calcium deposits.
+
+    Chunk 24:
+      Importance: 0.510000 (z-score: 3.25)
+      Function tags: unknown
+      Text: While viruses do cause various diseases, arteriosclerosis is typically due to genetic mutations and ...
+
+    Chunk 21:
+      Importance: 0.460000 (z-score: 2.93)
+      Function tags: unknown
+      Text: Factors like stress or nervous tension can also trigger these conditions through other mechanisms, e...
+
+    Chunk 17:
+      Importance: -0.345455 (z-score: -2.10)
+      Function tags: unknown
+      Text: Option C talks about a thickened wall with connective tissue and cholesterol deposits, and causes in...
+
+Problem 41:
+  Overall variance: 0.025272
+  Mean importance: -0.024545
+  Potential fork reasoning steps:
+    Chunk 14:
+      Importance: -0.546162 (z-score: -3.28)
+      Function tags: unknown
+      Text: So A covers several points.
+
+    Chunk 0:
+      Importance: -0.380000 (z-score: -2.24)
+      Function tags: unknown
+      Text: Okay, so I need to figure out the correct answer to this multiple-choice question about adaptations ...
+
+    Chunk 10:
+      Importance: -0.308485 (z-score: -1.79)
+      Function tags: unknown
+      Text: Looking at other options, rhizoids are definitely an adaptation for growing from roots, so A seems c...
+
+    Chunk 25:
+      Importance: 0.218763 (z-score: 1.53)
+      Function tags: unknown
+      Text: So A and E cover broader adaptations.
+
+Problem 26:
+  Overall variance: 0.022361
+  Mean importance: -0.021149
+  Potential fork reasoning steps:
+    Chunk 30:
+      Importance: -0.510000 (z-score: -3.27)
+      Function tags: unknown
+      Text: From my reasoning, since both heads are necessary, option I says both are needed.
+
+    Chunk 20:
+      Importance: -0.342727 (z-score: -2.15)
+      Function tags: unknown
+      Text: A. Only the thorax gland requires a signal; B.
+
+    Chunk 23:
+      Importance: 0.256076 (z-score: 1.85)
+      Function tags: unknown
+      Text: Thorax and head both needed; E.
+
+    Chunk 19:
+      Importance: -0.256027 (z-score: -1.57)
+      Function tags: unknown
+      Text: Looking at the options:
+
+Problem 25:
+  Overall variance: 0.022261
+  Mean importance: -0.002604
+  Potential fork reasoning steps:
+    Chunk 24:
+      Importance: 0.430000 (z-score: 2.90)
+      Function tags: unknown
+      Text: Then "balanced polymorphism is when different forms...equilibrium over time." Hmm, that sounds a bit...
+
+    Chunk 23:
+      Importance: -0.395493 (z-score: -2.63)
+      Function tags: unknown
+      Text: - **Option C** talks about "gene pool is the sum total of genes in a population"—that makes sense.
+
+    Chunk 43:
+      Importance: -0.394967 (z-score: -2.63)
+      Function tags: unknown
+      Text: **Option C**: Looks better.
+
+    Chunk 56:
+      Importance: -0.357143 (z-score: -2.38)
+      Function tags: unknown
+      Text: Alternatively, **Option C** is more precise in defining balanced polymorphism as maintaining multipl...
+
+    Chunk 28:
+      Importance: 0.290968 (z-score: 1.97)
+      Function tags: unknown
+      Text: Looking back at **Option B**, it correctly defines the gene pool as the physical pool where genes ar...
+
+    Chunk 25:
+      Importance: -0.273684 (z-score: -1.82)
+      Function tags: unknown
+      Text: It might mean that different genotypes maintain their frequencies despite selection pressures, perha...
+
+    Chunk 26:
+      Importance: 0.246061 (z-score: 1.67)
+      Function tags: unknown
+      Text: - **Option D** says "genetic load is the genetic diversity within a species." No, genetic diversity ...
+
+Problem 43:
+  Overall variance: 0.022170
+  Mean importance: -0.036341
+  Potential fork reasoning steps:
+    Chunk 33:
+      Importance: -0.681818 (z-score: -4.34)
+      Function tags: unknown
+      Text: Therefore, the answer should be G.
+
+    Chunk 30:
+      Importance: 0.251429 (z-score: 1.93)
+      Function tags: unknown
+      Text: Since the yolk is described as having an outer membrane, maybe that's what they're asking for.
+
+    Chunk 29:
+      Importance: -0.306667 (z-score: -1.82)
+      Function tags: unknown
+      Text: The yolk is part of the egg, and the membrane around it is the endozone, which is similar to the ide...
+
+Problem 65:
+  Overall variance: 0.021446
+  Mean importance: -0.029916
+  Potential fork reasoning steps:
+    Chunk 15:
+      Importance: -0.510000 (z-score: -3.28)
+      Function tags: unknown
+      Text: So putting it together, the correct answer must be either C or F.
+
+    Chunk 10:
+      Importance: -0.360000 (z-score: -2.25)
+      Function tags: unknown
+      Text: So option C says neurotransmitters are only present in the axonal end, which makes sense because if ...
+
+    Chunk 20:
+      Importance: 0.299121 (z-score: 2.25)
+      Function tags: unknown
+      Text: If the axon terminals can't release, then neurotransmitters can't move.
+
+    Chunk 13:
+      Importance: 0.236701 (z-score: 1.82)
+      Function tags: unknown
+      Text: That would fit with option H, where the neurotransmitter is present in the dendrites.
+
+Problem 24:
+  Overall variance: 0.021348
+  Mean importance: -0.022778
+  Potential fork reasoning steps:
+    Chunk 7:
+      Importance: -0.490000 (z-score: -3.20)
+      Function tags: unknown
+      Text: So, they live either in the presence or absence of oxygen—so that would make option B correct.
+
+    Chunk 24:
+      Importance: -0.347755 (z-score: -2.22)
+      Function tags: unknown
+      Text: So the correct choices are B and I.
+
+    Chunk 22:
+      Importance: 0.280000 (z-score: 2.07)
+      Function tags: unknown
+      Text: Wait, I should double-check.
+
+    Chunk 5:
+      Importance: -0.280000 (z-score: -1.76)
+      Function tags: unknown
+      Text: Obligatory anaerobes, also known as anaerobic, must be present in their environment if there's enoug...
+
+Problem 57:
+  Overall variance: 0.021325
+  Mean importance: -0.038883
+  Potential fork reasoning steps:
+    Chunk 11:
+      Importance: -0.510000 (z-score: -3.23)
+      Function tags: unknown
+      Text: Looking at the options, option E says "Ingram's discovery was proof that a mutation in a gene result...
+
+    Chunk 12:
+      Importance: 0.304286 (z-score: 2.35)
+      Function tags: unknown
+      Text: Maybe E refers more to mutation effects rather than the direct evidence about genes controlling amin...
+
+    Chunk 22:
+      Importance: -0.380000 (z-score: -2.34)
+      Function tags: unknown
+      Text: Wait, going back to the ribosome experiment, when a gene is missing, the ribosomes can't form correc...
+
+Problem 15:
+  Overall variance: 0.019894
+  Mean importance: 0.001732
+  Potential fork reasoning steps:
+    Chunk 41:
+      Importance: -0.508387 (z-score: -3.62)
+      Function tags: unknown
+      Text: This seems like a straightforward answer, covering the four main forces: mutation, natural selection...
+
+    Chunk 0:
+      Importance: 0.458235 (z-score: 3.24)
+      Function tags: unknown
+      Text: Okay, so I have to figure out what the major forces of evolution are.
+
+    Chunk 40:
+      Importance: -0.403333 (z-score: -2.87)
+      Function tags: unknown
+      Text: Finally, Option J repeats mutation, genetic drift, migration, and natural selection.
+
+    Chunk 21:
+      Importance: 0.380000 (z-score: 2.68)
+      Function tags: unknown
+      Text: Gene flow is the transfer of genes between populations, which affects genetic diversity.
+
+    Chunk 20:
+      Importance: 0.320000 (z-score: 2.26)
+      Function tags: unknown
+      Text: Option D includes mutation, gene flow, migration, and natural selection.
+
+Problem 34:
+  Overall variance: 0.019099
+  Mean importance: -0.031201
+  Potential fork reasoning steps:
+    Chunk 3:
+      Importance: 0.250390 (z-score: 2.04)
+      Function tags: unknown
+      Text: First, I should recall what I know about these two groups.
+
+    Chunk 5:
+      Importance: 0.240000 (z-score: 1.96)
+      Function tags: unknown
+      Text: On the other hand, many scientists place them above Homo sapiens, meaning they evolved before humans...
+
+    Chunk 6:
+      Importance: -0.245000 (z-score: -1.55)
+      Function tags: unknown
+      Text: Looking at the options:
+
+Problem 37:
+  Overall variance: 0.018930
+  Mean importance: -0.004109
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: 0.470000 (z-score: 3.45)
+      Function tags: unknown
+      Text: Okay, so I need to figure out how to answer this multiple-choice question about determining Basal Me...
+
+    Chunk 13:
+      Importance: -0.427825 (z-score: -3.08)
+      Function tags: unknown
+      Text: and thyroxine in blood." This sounds familiar.
+
+    Chunk 12:
+      Importance: 0.271545 (z-score: 2.00)
+      Function tags: unknown
+      Text: Option C: "Measuring heat given off indirectly measuring oxygen used...
+
+    Chunk 8:
+      Importance: -0.250000 (z-score: -1.79)
+      Function tags: unknown
+      Text: Also, I think there are other factors like exercise and activity levels that affect CO2 production b...
+
+    Chunk 9:
+      Importance: 0.226531 (z-score: 1.68)
+      Function tags: unknown
+      Text: Option B: "BMR can be determined by the amount of food a person eats." That doesn't make sense becau...
+
+Problem 90:
+  Overall variance: 0.018924
+  Mean importance: -0.035182
+  Potential fork reasoning steps:
+    Chunk 10:
+      Importance: 0.346809 (z-score: 2.78)
+      Function tags: unknown
+      Text: - B starts with "Emergence of the first birds," which fits.
+
+    Chunk 12:
+      Importance: -0.351176 (z-score: -2.30)
+      Function tags: unknown
+      Text: - E mentions "appearance of the first vertebrates," which would include birds.
+
+    Chunk 19:
+      Importance: -0.295263 (z-score: -1.89)
+      Function tags: unknown
+      Text: Vertebrates, including birds, definitely came before mammals.
+
+Problem 94:
+  Overall variance: 0.018707
+  Mean importance: -0.023830
+  Potential fork reasoning steps:
+    Chunk 8:
+      Importance: -0.567172 (z-score: -3.97)
+      Function tags: unknown
+      Text: This sounds like a good candidate.
+
+    Chunk 36:
+      Importance: 0.350000 (z-score: 2.73)
+      Function tags: unknown
+      Text: This definitely seems important.
+
+    Chunk 41:
+      Importance: -0.299670 (z-score: -2.02)
+      Function tags: unknown
+      Text: A includes several key traits like exoskeleton, organ systems, and nervous tissues, which are founda...
+
+    Chunk 0:
+      Importance: 0.203333 (z-score: 1.66)
+      Function tags: unknown
+      Text: Okay, so I need to figure out which characteristic of arthropods is most important for their evoluti...
+
+    Chunk 39:
+      Importance: -0.248247 (z-score: -1.64)
+      Function tags: unknown
+      Text: So, considering all these points, both A and I come up as strong candidates.
+
+Problem 46:
+  Overall variance: 0.018597
+  Mean importance: -0.025073
+  Potential fork reasoning steps:
+    Chunk 20:
+      Importance: -0.620000 (z-score: -4.36)
+      Function tags: unknown
+      Text: This seems like a good answer because without a common ancestor, each protozoan has its own unique t...
+
+    Chunk 27:
+      Importance: -0.284227 (z-score: -1.90)
+      Function tags: unknown
+      Text: So maybe the key issue is related to their diversity and lack of shared traits, which would tie back...
+
+    Chunk 21:
+      Importance: 0.180000 (z-score: 1.50)
+      Function tags: unknown
+      Text: Wait, let me think again.
+
+Problem 35:
+  Overall variance: 0.018547
+  Mean importance: -0.035423
+  Potential fork reasoning steps:
+    Chunk 18:
+      Importance: -0.660000 (z-score: -4.59)
+      Function tags: unknown
+      Text: E. Soil texture and light wavelength.
+
+    Chunk 11:
+      Importance: -0.390000 (z-score: -2.60)
+      Function tags: unknown
+      Text: C. Atmospheric pressure and noise.
+
+    Chunk 2:
+      Importance: -0.301739 (z-score: -1.96)
+      Function tags: unknown
+      Text: First, I know that bacteria grow best in environments where there's enough oxygen because they use o...
+
+    Chunk 36:
+      Importance: -0.253636 (z-score: -1.60)
+      Function tags: unknown
+      Text: But looking back, option A includes three factors: oxygen, acidity, and alkalinity, which together d...
+
+    Chunk 10:
+      Importance: 0.180000 (z-score: 1.58)
+      Function tags: unknown
+      Text: High temperatures might kill them, while light can help in photosynthesis if the bacteria are in the...
+
+Problem 55:
+  Overall variance: 0.018112
+  Mean importance: -0.035283
+  Potential fork reasoning steps:
+    Chunk 13:
+      Importance: -0.680000 (z-score: -4.79)
+      Function tags: unknown
+      Text: I know neurotransmitters like this send signals through the nervous system, but specifically in the ...
+
+Problem 45:
+  Overall variance: 0.017990
+  Mean importance: 0.004582
+  Potential fork reasoning steps:
+    Chunk 87:
+      Importance: 0.797980 (z-score: 5.92)
+      Function tags: unknown
+      Text: e) VAL (V-417) to GLN (G-403): same as d) → 3 substitutions.
+
+    Chunk 70:
+      Importance: 0.663265 (z-score: 4.91)
+      Function tags: unknown
+      Text: Wait, no, I think I made a mistake earlier.
+
+    Chunk 68:
+      Importance: -0.550617 (z-score: -4.14)
+      Function tags: unknown
+      Text: Option I suggests 1 for glutamic to lysine, 2 for leucine to alanine, etc.
+
+    Chunk 112:
+      Importance: 0.470000 (z-score: 3.47)
+      Function tags: unknown
+      Text: Given the time constraints, perhaps the closest option is E, which says 2 for all amino acids, but t...
+
+    Chunk 69:
+      Importance: -0.458824 (z-score: -3.46)
+      Function tags: unknown
+      Text: That matches our counts.
+
+    Chunk 100:
+      Importance: 0.270000 (z-score: 1.98)
+      Function tags: unknown
+      Text: e), 3 substitutions (same as d)).
+
+    Chunk 111:
+      Importance: -0.244624 (z-score: -1.86)
+      Function tags: unknown
+      Text: However, without specific data, it's hard to tell.
+
+Problem 79:
+  Overall variance: 0.017807
+  Mean importance: -0.014408
+  Potential fork reasoning steps:
+    Chunk 25:
+      Importance: -0.585859 (z-score: -4.28)
+      Function tags: unknown
+      Text: So, looking at all, H seems like a strong contender.
+
+Problem 74:
+  Overall variance: 0.017622
+  Mean importance: -0.024513
+  Potential fork reasoning steps:
+    Chunk 42:
+      Importance: -0.410000 (z-score: -2.90)
+      Function tags: unknown
+      Text: J. Easier to maintain in a lab.
+
+    Chunk 47:
+      Importance: 0.339583 (z-score: 2.74)
+      Function tags: unknown
+      Text: So among these options, F, I, J seem plausible.
+
+    Chunk 54:
+      Importance: -0.380417 (z-score: -2.68)
+      Function tags: unknown
+      Text: So combining these thoughts, the best answers are H, I, and J.
+
+    Chunk 49:
+      Importance: -0.360000 (z-score: -2.53)
+      Function tags: unknown
+      Text: Option H mentions that prokaryotes (bacteria) are haploid, so each cell has only one set of chromoso...
+
+    Chunk 22:
+      Importance: -0.340000 (z-score: -2.38)
+      Function tags: unknown
+      Text: E. Less susceptibility to genetic diseases.
+
+    Chunk 31:
+      Importance: 0.250000 (z-score: 2.07)
+      Function tags: unknown
+      Text: G. Do not require ethical considerations.
+
+    Chunk 36:
+      Importance: 0.200000 (z-score: 1.69)
+      Function tags: unknown
+      Text: But the option says "prokaryotes are haploid, making single inactivation more likely." Yeast being e...
+
+Problem 60:
+  Overall variance: 0.017554
+  Mean importance: 0.012674
+  Potential fork reasoning steps:
+    Chunk 50:
+      Importance: 0.420408 (z-score: 3.08)
+      Function tags: unknown
+      Text: It's a rigid, impermeable barrier, so G is correct.
+
+    Chunk 5:
+      Importance: 0.351852 (z-score: 2.56)
+      Function tags: unknown
+      Text: A. Nuclear membrane functions independently of ER and Golgi.
+
+    Chunk 16:
+      Importance: -0.293333 (z-score: -2.31)
+      Function tags: unknown
+      Text: E. Single layer fusing with ER.
+
+    Chunk 11:
+      Importance: 0.313131 (z-score: 2.27)
+      Function tags: unknown
+      Text: C. Two membranes with nuclear pores for communication.
+
+    Chunk 12:
+      Importance: -0.277869 (z-score: -2.19)
+      Function tags: unknown
+      Text: Yes, I believe nuclear pores allow communication between the nucleus and cytoplasm, so C sounds corr...
+
+    Chunk 23:
+      Importance: 0.276522 (z-score: 1.99)
+      Function tags: unknown
+      Text: G. Rigid, impermeable barrier around nucleus.
+
+    Chunk 33:
+      Importance: -0.213656 (z-score: -1.71)
+      Function tags: unknown
+      Text: Also false as mentioned earlier.
+
+    Chunk 6:
+      Importance: -0.200000 (z-score: -1.61)
+      Function tags: unknown
+      Text: Hmm, I don't think they're independent because both are involved in transporting materials within th...
+
+    Chunk 24:
+      Importance: 0.212644 (z-score: 1.51)
+      Function tags: unknown
+      Text: That makes sense because it keeps the nucleus together without letting things inside escape.
+
+Problem 20:
+  Overall variance: 0.017291
+  Mean importance: -0.001498
+  Potential fork reasoning steps:
+    Chunk 42:
+      Importance: -0.472593 (z-score: -3.58)
+      Function tags: unknown
+      Text: Now, for part a, the allelic frequency of T is approximately 0.371, and t is 0.629.
+
+    Chunk 5:
+      Importance: 0.421687 (z-score: 3.22)
+      Function tags: unknown
+      Text: The problem says that among 798 students, 60.4% are tasters.
+
+    Chunk 0:
+      Importance: -0.266917 (z-score: -2.02)
+      Function tags: unknown
+      Text: Okay, so I've got this genetics problem here about students tasting phenylthiocarbamide (PTC), which...
+
+Problem 29:
+  Overall variance: 0.016921
+  Mean importance: 0.017086
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: 0.540000 (z-score: 4.02)
+      Function tags: unknown
+      Text: Okay, so I need to figure out why moss plants can't grow taller than about 15 centimeters.
+
+    Chunk 27:
+      Importance: 0.363636 (z-score: 2.66)
+      Function tags: unknown
+      Text: Option F says they can't photosynthesize effectively.
+
+    Chunk 31:
+      Importance: -0.296344 (z-score: -2.41)
+      Function tags: unknown
+      Text: moss has unique leaf structures, like the specialized ones called "stomata," but I'm not sure how th...
+
+    Chunk 28:
+      Importance: -0.215965 (z-score: -1.79)
+      Function tags: unknown
+      Text: Since they don't photosynthesize, I don't think this applies.
+
+Problem 71:
+  Overall variance: 0.016781
+  Mean importance: 0.000084
+  Potential fork reasoning steps:
+    Chunk 22:
+      Importance: -0.690000 (z-score: -5.33)
+      Function tags: unknown
+      Text: E. Algae have true flowers and seeds.
+
+    Chunk 16:
+      Importance: 0.575758 (z-score: 4.44)
+      Function tags: unknown
+      Text: C. Thallus has a rigid cell wall, plants don't.
+
+    Chunk 12:
+      Importance: -0.234028 (z-score: -1.81)
+      Function tags: unknown
+      Text: This makes sense because plants have specialized tissues, while algae are more uniform.
+
+    Chunk 28:
+      Importance: 0.226804 (z-score: 1.75)
+      Function tags: unknown
+      Text: Algal cells are microscopic, while plant cells are larger.
+
+    Chunk 37:
+      Importance: 0.226804 (z-score: 1.75)
+      Function tags: unknown
+      Text: photosynthesis.
+
+    Chunk 72:
+      Importance: -0.222727 (z-score: -1.72)
+      Function tags: unknown
+      Text: So, looking back at the options, the most accurate ones seem to be A, D, F, G, H, I, L, M, N, O, P, ...
+
+Problem 1:
+  Overall variance: 0.016567
+  Mean importance: -0.037464
+  Potential fork reasoning steps:
+    Chunk 7:
+      Importance: 0.273333 (z-score: 2.41)
+      Function tags: unknown
+      Text: - B mentions merging with Golgi; I don't think so because phagocytosis usually involves these organe...
+
+    Chunk 5:
+      Importance: -0.343009 (z-score: -2.37)
+      Function tags: unknown
+      Text: - A says the vesicle floats freely.
+
+    Chunk 15:
+      Importance: 0.163529 (z-score: 1.56)
+      Function tags: unknown
+      Text: - H endoplasmic reticulum: Also not typical unless it's a special case, but generally, the main targ...
+
+Problem 85:
+  Overall variance: 0.016563
+  Mean importance: -0.019341
+  Potential fork reasoning steps:
+    Chunk 10:
+      Importance: -0.579388 (z-score: -4.35)
+      Function tags: unknown
+      Text: Now, looking at the options, option A says the bacteria can live without the cell wall in an isotoni...
+
+    Chunk 39:
+      Importance: 0.299798 (z-score: 2.48)
+      Function tags: unknown
+      Text: Option C adds external support, which is necessary if the cell wall isn't present.
+
+    Chunk 11:
+      Importance: 0.201159 (z-score: 1.71)
+      Function tags: unknown
+      Text: Isotonic means the solution's osmotic pressure matches the bacterial's protoplasm.
+
+    Chunk 38:
+      Importance: -0.220000 (z-score: -1.56)
+      Function tags: unknown
+      Text: This makes sense because bacteria often thrive in environments where there's not much surrounding ma...
+
+Problem 18:
+  Overall variance: 0.016474
+  Mean importance: -0.049486
+  Potential fork reasoning steps:
+    Chunk 7:
+      Importance: -0.410000 (z-score: -2.81)
+      Function tags: unknown
+      Text: Genotypic variation is about differences in genetic makeup.
+
+    Chunk 23:
+      Importance: 0.205455 (z-score: 1.99)
+      Function tags: unknown
+      Text: If something results in neutral variation, does that make all nucleotide variability neutral?
+
+    Chunk 12:
+      Importance: -0.275789 (z-score: -1.76)
+      Function tags: unknown
+      Text: So maybe not all phenotypic variation comes directly from genotype.
+
+    Chunk 21:
+      Importance: -0.273333 (z-score: -1.74)
+      Function tags: unknown
+      Text: Neutral variation means these changes don't affect fitness, so they don't lead to evolutionary outco...
+
+    Chunk 29:
+      Importance: -0.272609 (z-score: -1.74)
+      Function tags: unknown
+      Text: So yes, mutations are a type of nucleotide variability.
+
+Problem 76:
+  Overall variance: 0.015782
+  Mean importance: -0.026483
+  Potential fork reasoning steps:
+    Chunk 42:
+      Importance: -0.820426 (z-score: -6.32)
+      Function tags: unknown
+      Text: So, the answer should be J.
+
+Problem 50:
+  Overall variance: 0.015723
+  Mean importance: -0.010251
+  Potential fork reasoning steps:
+    Chunk 3:
+      Importance: -0.396667 (z-score: -3.08)
+      Function tags: unknown
+      Text: First, let me read through each option carefully to understand what each one claims about courtship ...
+
+    Chunk 40:
+      Importance: -0.350000 (z-score: -2.71)
+      Function tags: unknown
+      Text: Option A mentions sexual identification, decreasing aggressive tendencies, which ties into protectin...
+
+    Chunk 20:
+      Importance: -0.300000 (z-score: -2.31)
+      Function tags: unknown
+      Text: Option F mentions courtship is finding food sources.
+
+    Chunk 7:
+      Importance: -0.240000 (z-score: -1.83)
+      Function tags: unknown
+      Text: Option B suggests courtship is combat.
+
+    Chunk 39:
+      Importance: 0.210000 (z-score: 1.76)
+      Function tags: unknown
+      Text: The scenario involves showing another fish, which relates to social bonding and defending territorie...
+
+    Chunk 43:
+      Importance: -0.228041 (z-score: -1.74)
+      Function tags: unknown
+      Text: However, the most direct explanation for courtship behavior is likely A, focusing on sexual identifi...
+
+    Chunk 0:
+      Importance: 0.207273 (z-score: 1.73)
+      Function tags: unknown
+      Text: Okay, so I need to figure out how to answer this question about the common tern's courtship behavior...
+
+Problem 83:
+  Overall variance: 0.015672
+  Mean importance: -0.024956
+  Potential fork reasoning steps:
+    Chunk 36:
+      Importance: -0.730000 (z-score: -5.63)
+      Function tags: unknown
+      Text: Looking back, option H mentions a hormone from nerve cells.
+
+Problem 44:
+  Overall variance: 0.015475
+  Mean importance: -0.027680
+  Potential fork reasoning steps:
+    Chunk 44:
+      Importance: -0.617980 (z-score: -4.75)
+      Function tags: unknown
+      Text: But looking back, I think F might be better because it mentions E.
+
+    Chunk 23:
+      Importance: -0.390000 (z-score: -2.91)
+      Function tags: unknown
+      Text: D. Flagellum, autotrophic, can't switch, sexual via budding.
+
+    Chunk 32:
+      Importance: 0.298750 (z-score: 2.62)
+      Function tags: unknown
+      Text: coli has autotrophic and sometimes heterotrophic capabilities, perhaps it fits J's description if it...
+
+    Chunk 25:
+      Importance: -0.277143 (z-score: -2.01)
+      Function tags: unknown
+      Text: F. Undulating flagellum, autotrophic, shifts under dark, sexual via binary fission.
+
+Problem 61:
+  Overall variance: 0.015374
+  Mean importance: -0.034130
+  Potential fork reasoning steps:
+    Chunk 18:
+      Importance: 0.298866 (z-score: 2.69)
+      Function tags: unknown
+      Text: D seems more about brain waves, which could be part of conditioning.
+
+    Chunk 17:
+      Importance: -0.324286 (z-score: -2.34)
+      Function tags: unknown
+      Text: So between D, E, G, I, J.
+
+    Chunk 16:
+      Importance: 0.210566 (z-score: 1.97)
+      Function tags: unknown
+      Text: J. Behavioral observation – Observing natural behavior without training, which could show how sensit...
+
+    Chunk 19:
+      Importance: -0.245714 (z-score: -1.71)
+      Function tags: unknown
+      Text: E is about operant conditioning.
+
+Problem 17:
+  Overall variance: 0.014998
+  Mean importance: -0.003499
+  Potential fork reasoning steps:
+    Chunk 50:
+      Importance: -0.581609 (z-score: -4.72)
+      Function tags: unknown
+      Text: Between F and I, I think I is more directly related to preventing theft, which enhances survival, wh...
+
+    Chunk 0:
+      Importance: 0.490000 (z-score: 4.03)
+      Function tags: unknown
+      Text: Okay, so I'm trying to figure out the answer to this biology question about black-headed gulls remov...
+
+    Chunk 49:
+      Importance: 0.285051 (z-score: 2.36)
+      Function tags: unknown
+      Text: But since the question allows only one letter, I need to choose the best fit.
+
+Problem 5:
+  Overall variance: 0.014760
+  Mean importance: -0.027279
+  Potential fork reasoning steps:
+    Chunk 6:
+      Importance: -0.478519 (z-score: -3.71)
+      Function tags: unknown
+      Text: Looking at the options, option G mentions psychrophiles.
+
+    Chunk 5:
+      Importance: 0.240000 (z-score: 2.20)
+      Function tags: unknown
+      Text: So, maybe something's reacting with the cold.
+
+    Chunk 4:
+      Importance: -0.290000 (z-score: -2.16)
+      Function tags: unknown
+      Text: These bacteria could be psychrophiles, which means they thrive at or near low temperatures.
+
+    Chunk 3:
+      Importance: -0.257872 (z-score: -1.90)
+      Function tags: unknown
+      Text: When you keep it cold, the bacteria in the milk might become active because they're looking for a co...
+
+Problem 8:
+  Overall variance: 0.013912
+  Mean importance: -0.046193
+  Potential fork reasoning steps:
+    Chunk 14:
+      Importance: -0.369756 (z-score: -2.74)
+      Function tags: unknown
+      Text: G. Suggests life evolves organically and the earth is old—this aligns well with uniformitarianism's ...
+
+    Chunk 13:
+      Importance: -0.343333 (z-score: -2.52)
+      Function tags: unknown
+      Text: F. Asserts the earth was created in one divine plan—this seems like ge Occidentism, which might be r...
+
+    Chunk 16:
+      Importance: 0.144348 (z-score: 1.62)
+      Function tags: unknown
+      Text: I. States geological forces have changed over time—yes, again, uniformitarianism supports natural, g...
+
+Problem 52:
+  Overall variance: 0.013780
+  Mean importance: -0.030709
+  Potential fork reasoning steps:
+    Chunk 33:
+      Importance: -0.404762 (z-score: -3.19)
+      Function tags: unknown
+      Text: So, considering all this, the most likely explanation is option B: the toxin from Staphylococcus aur...
+
+    Chunk 24:
+      Importance: 0.315253 (z-score: 2.95)
+      Function tags: unknown
+      Text: This can cause shock, convulsions, and sometimes more serious complications.
+
+    Chunk 17:
+      Importance: -0.280000 (z-score: -2.12)
+      Function tags: unknown
+      Text: This seems plausible because the presence of such bacteria in the food would lead to severe symptoms...
+
+Problem 68:
+  Overall variance: 0.013719
+  Mean importance: -0.024742
+  Potential fork reasoning steps:
+    Chunk 38:
+      Importance: -0.682268 (z-score: -5.61)
+      Function tags: unknown
+      Text: Given all this confusion, I think the best answer based on the options provided is that none of them...
+
+Problem 28:
+  Overall variance: 0.013655
+  Mean importance: -0.015879
+  Potential fork reasoning steps:
+    Chunk 41:
+      Importance: -0.339767 (z-score: -2.77)
+      Function tags: unknown
+      Text: This aligns with maintaining osmotic balance by expelling salt.
+
+    Chunk 14:
+      Importance: -0.310000 (z-score: -2.52)
+      Function tags: unknown
+      Text: B. Periodically release salt crystals through digestive tract.
+
+    Chunk 10:
+      Importance: 0.252857 (z-score: 2.30)
+      Function tags: unknown
+      Text: Looking at the options:
+
+    Chunk 11:
+      Importance: -0.262222 (z-score: -2.11)
+      Function tags: unknown
+      Text: A. Osmoregulate by secreting excess water through gills.
+
+    Chunk 22:
+      Importance: 0.196522 (z-score: 1.82)
+      Function tags: unknown
+      Text: If they avoid sea water, their osmotic pressure stays lower, so this could work too.
+
+    Chunk 13:
+      Importance: 0.186667 (z-score: 1.73)
+      Function tags: unknown
+      Text: That doesn't make sense because it would stress them more, not help them dehydrate.
+
+    Chunk 29:
+      Importance: 0.176061 (z-score: 1.64)
+      Function tags: unknown
+      Text: This involves actively moving water out.
+
+    Chunk 47:
+      Importance: -0.206186 (z-score: -1.63)
+      Function tags: unknown
+      Text: Since J talks about transporting out excess salt, it's more about osmolytic regulation itself.
+
+Problem 12:
+  Overall variance: 0.013444
+  Mean importance: -0.020976
+  Potential fork reasoning steps:
+    Chunk 44:
+      Importance: -0.730000 (z-score: -6.11)
+      Function tags: unknown
+      Text: Wait, going back to the options, H is epigenetic inheritance.
+
+    Chunk 29:
+      Importance: -0.219293 (z-score: -1.71)
+      Function tags: unknown
+      Text: Alternatively, if the parents are from different branches, maybe it's indicating something about the...
+
+Problem 3:
+  Overall variance: 0.012958
+  Mean importance: -0.035426
+  Potential fork reasoning steps:
+    Chunk 5:
+      Importance: 0.285000 (z-score: 2.81)
+      Function tags: unknown
+      Text: Looking at the options:
+
+    Chunk 24:
+      Importance: -0.345714 (z-score: -2.73)
+      Function tags: unknown
+      Text: This aligns better with my initial understanding.
+
+Problem 6:
+  Overall variance: 0.012550
+  Mean importance: -0.017570
+  Potential fork reasoning steps:
+    Chunk 12:
+      Importance: 0.290000 (z-score: 2.75)
+      Function tags: unknown
+      Text: Option C talks about certain traits preventing mating.
+
+    Chunk 8:
+      Importance: -0.290000 (z-score: -2.43)
+      Function tags: unknown
+      Text: So maybe A isn't correct.
+
+    Chunk 18:
+      Importance: 0.250000 (z-score: 2.39)
+      Function tags: unknown
+      Text: Option E says it's purely based on random mating.
+
+    Chunk 15:
+      Importance: -0.273684 (z-score: -2.29)
+      Function tags: unknown
+      Text: Option D states that mutation is the only factor influencing offspring.
+
+Problem 13:
+  Overall variance: 0.012535
+  Mean importance: -0.015926
+  Potential fork reasoning steps:
+    Chunk 60:
+      Importance: -0.789044 (z-score: -6.91)
+      Function tags: unknown
+      Text: Looking at the options, option A says yellow mice are Y^ly^L and nonyellow are y^Ly^L.
+
+    Chunk 64:
+      Importance: -0.319670 (z-score: -2.71)
+      Function tags: unknown
+      Text: Wait, perhaps the correct representation is that yellow mice are Y^ly^L and nonyellow are y^Ly^L, wh...
+
+    Chunk 61:
+      Importance: 0.284211 (z-score: 2.68)
+      Function tags: unknown
+      Text: Option B says yellow are YlYl and nonyellow yLyL.
+
+Problem 91:
+  Overall variance: 0.011978
+  Mean importance: -0.008409
+  Potential fork reasoning steps:
+    Chunk 35:
+      Importance: -0.729596 (z-score: -6.59)
+      Function tags: unknown
+      Text: Option B, pendant flowers, might give hummingbirds a reason to fly elsewhere, perhaps avoiding bees.
+
+    Chunk 37:
+      Importance: -0.208571 (z-score: -1.83)
+      Function tags: unknown
+      Text: I'm leaning towards B because pendant flowers could deter bees by adding a unique look, but how does...
+
+    Chunk 36:
+      Importance: 0.187677 (z-score: 1.79)
+      Function tags: unknown
+      Text: But does it limit pollination?
+
+Problem 9:
+  Overall variance: 0.011451
+  Mean importance: -0.016875
+  Potential fork reasoning steps:
+    Chunk 42:
+      Importance: -0.496869 (z-score: -4.49)
+      Function tags: unknown
+      Text: So narrowing it down, Option C and Option F/ J seem relevant.
+
+    Chunk 28:
+      Importance: 0.245000 (z-score: 2.45)
+      Function tags: unknown
+      Text: Not sure. Option F suggests the leg artery has higher pressure due to gravity.
+
+    Chunk 39:
+      Importance: -0.250000 (z-score: -2.18)
+      Function tags: unknown
+      Text: Option J suggests the leg artery naturally has higher pressure due to gravity.
+
+    Chunk 34:
+      Importance: 0.169623 (z-score: 1.74)
+      Function tags: unknown
+      Text: Option H is about measurement error.
+
+Problem 72:
+  Overall variance: 0.011024
+  Mean importance: -0.025685
+  Potential fork reasoning steps:
+    Chunk 9:
+      Importance: -0.282958 (z-score: -2.45)
+      Function tags: unknown
+      Text: - Option A says mutation and recombination don't affect B-cells.
+
+    Chunk 7:
+      Importance: -0.215909 (z-score: -1.81)
+      Function tags: unknown
+      Text: So if there's mutation, maybe it changes some parts of the DNA, making the cells more likely to reco...
+
+    Chunk 4:
+      Importance: 0.158460 (z-score: 1.75)
+      Function tags: unknown
+      Text: That makes sense because if the immune system can't attack it, the body goes for other options, lead...
+
+    Chunk 8:
+      Importance: 0.150000 (z-score: 1.67)
+      Function tags: unknown
+      Text: Looking at the options:
+
+Problem 96:
+  Overall variance: 0.010890
+  Mean importance: -0.011775
+  Potential fork reasoning steps:
+    Chunk 48:
+      Importance: -0.628990 (z-score: -5.91)
+      Function tags: unknown
+      Text: Putting it together, the most accurate statements seem to be E, G, and I.
+
+    Chunk 49:
+      Importance: 0.174043 (z-score: 1.78)
+      Function tags: unknown
+      Text: However, since the question asks for a single letter, I'll choose the one that best fits.
+
+    Chunk 22:
+      Importance: 0.173333 (z-score: 1.77)
+      Function tags: unknown
+      Text: E. Complete equilibrium in a gene pool is not expected.
+
+Problem 38:
+  Overall variance: 0.010746
+  Mean importance: -0.033633
+  Potential fork reasoning steps:
+    Chunk 18:
+      Importance: -0.320000 (z-score: -2.76)
+      Function tags: unknown
+      Text: E. Bronchi contracting and esophageal sphincter relaxing.
+
+    Chunk 17:
+      Importance: -0.295714 (z-score: -2.53)
+      Function tags: unknown
+      Text: This seems accurate because it describes how the larynx muscles work together with the pharynx to tr...
+
+    Chunk 32:
+      Importance: 0.170000 (z-score: 1.96)
+      Function tags: unknown
+      Text: So, between D, G, H, F, and B, D seems most accurate because it describes the process of swallowing ...
+
+    Chunk 16:
+      Importance: -0.232857 (z-score: -1.92)
+      Function tags: unknown
+      Text: Swallowing is a complex reflex initiated by pressure receptors.
+
+    Chunk 25:
+      Importance: 0.161207 (z-score: 1.88)
+      Function tags: unknown
+      Text: This correctly identifies that the trachea closes and the esophagus opens, allowing food and air res...
+
+    Chunk 15:
+      Importance: -0.223077 (z-score: -1.83)
+      Function tags: unknown
+      Text: D. Swallowing involves moving the larynx up, causing the glottis to be closed by the epiglottis, all...
+
+Problem 73:
+  Overall variance: 0.010669
+  Mean importance: -0.048073
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: -0.230000 (z-score: -1.76)
+      Function tags: unknown
+      Text: Alright, let's tackle this probability problem step by step.
+
+    Chunk 10:
+      Importance: -0.224898 (z-score: -1.71)
+      Function tags: unknown
+      Text: Let me write that down:
+
+    Chunk 11:
+      Importance: 0.110000 (z-score: 1.53)
+      Function tags: unknown
+      Text: Probability = Number of favorable outcomes / Total number of possible outcomes
+= 1 / 52
+
+Problem 87:
+  Overall variance: 0.009968
+  Mean importance: -0.024392
+  Potential fork reasoning steps:
+    Chunk 32:
+      Importance: -0.310645 (z-score: -2.87)
+      Function tags: unknown
+      Text: Option I: Krebs cycle – yes, it produces NADH and CO2, but does it produce sugar?
+
+    Chunk 20:
+      Importance: -0.293333 (z-score: -2.69)
+      Function tags: unknown
+      Text: Calvin cycle is a key part of photosynthesis, converting CO2 into organic molecules, including sugar...
+
+    Chunk 10:
+      Importance: 0.219730 (z-score: 2.45)
+      Function tags: unknown
+      Text: So glycolysis definitely involves NADP+ and ADP since those are produced.
+
+    Chunk 31:
+      Importance: 0.140000 (z-score: 1.65)
+      Function tags: unknown
+      Text: Option H: Calvin cycle – yes, it produces sugars.
+
+Problem 80:
+  Overall variance: 0.009757
+  Mean importance: -0.008132
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: 0.313333 (z-score: 3.25)
+      Function tags: unknown
+      Text: Okay, so I need to figure out why someone might call a flock of birds a "society." Let me break it d...
+
+    Chunk 3:
+      Importance: 0.224545 (z-score: 2.36)
+      Function tags: unknown
+      Text: Looking at the options, let's go through each one:
+
+Problem 23:
+  Overall variance: 0.009130
+  Mean importance: -0.006097
+  Potential fork reasoning steps:
+    Chunk 20:
+      Importance: -0.535556 (z-score: -5.54)
+      Function tags: unknown
+      Text: Looking back at the options provided, option J lists these six biomes in order.
+
+Problem 69:
+  Overall variance: 0.008888
+  Mean importance: 0.000539
+  Potential fork reasoning steps:
+    Chunk 14:
+      Importance: -0.354040 (z-score: -3.76)
+      Function tags: unknown
+      Text: Yes, that's accurate.
+
+    Chunk 5:
+      Importance: 0.194810 (z-score: 2.06)
+      Function tags: unknown
+      Text: Option A says reverse transcriptase is used to directly replicate DNA in PCR.
+
+    Chunk 8:
+      Importance: 0.170000 (z-score: 1.80)
+      Function tags: unknown
+      Text: So A might not be correct.
+
+    Chunk 0:
+      Importance: -0.154444 (z-score: -1.64)
+      Function tags: unknown
+      Text: Okay, I need to figure out how reverse transcriptase has been exploited by biologists.
+
+Problem 49:
+  Overall variance: 0.008843
+  Mean importance: -0.007898
+  Potential fork reasoning steps:
+    Chunk 11:
+      Importance: 0.260000 (z-score: 2.85)
+      Function tags: unknown
+      Text: Option G is another version of D, phrased differently.
+
+    Chunk 5:
+      Importance: 0.217143 (z-score: 2.39)
+      Function tags: unknown
+      Text: Let's start with B: "The development of a vertebrate organism from the zygote stage to fetus display...
+
+    Chunk 6:
+      Importance: -0.207778 (z-score: -2.13)
+      Function tags: unknown
+      Text: So maybe B isn't correct.
+
+    Chunk 10:
+      Importance: -0.190000 (z-score: -1.94)
+      Function tags: unknown
+      Text: That sounds right because organisms' developmental stages mirror their evolutionary origins.
+
+    Chunk 13:
+      Importance: -0.184949 (z-score: -1.88)
+      Function tags: unknown
+      Text: Now, thinking about the basics: embryology studies the development of organisms from their zygote st...
+
+    Chunk 7:
+      Importance: -0.156087 (z-score: -1.58)
+      Function tags: unknown
+      Text: Option D says, "Ontogeny recapitulates phylogeny." Wait, onto the life cycle?
+
+Problem 54:
+  Overall variance: 0.008828
+  Mean importance: -0.027742
+  Potential fork reasoning steps:
+    Chunk 12:
+      Importance: -0.242222 (z-score: -2.28)
+      Function tags: unknown
+      Text: F. One benefits while the other receives neither – That makes sense because acommensalism implies on...
+
+    Chunk 5:
+      Importance: 0.140417 (z-score: 1.79)
+      Function tags: unknown
+      Text: Let me think about the options given:
+
+Problem 48:
+  Overall variance: 0.008795
+  Mean importance: -0.020205
+  Potential fork reasoning steps:
+    Chunk 46:
+      Importance: -0.472766 (z-score: -4.83)
+      Function tags: unknown
+      Text: Among these, the most direct reason is that the virus may not be affected by DNAse, either because i...
+
+    Chunk 43:
+      Importance: 0.212500 (z-score: 2.48)
+      Function tags: unknown
+      Text: Now, looking back at the original question, the key point is that when DNAse is added while viruses ...
+
+    Chunk 36:
+      Importance: 0.169670 (z-score: 2.02)
+      Function tags: unknown
+      Text: This directly answers why DNAse didn't kill the virus.
+
+    Chunk 38:
+      Importance: -0.190000 (z-score: -1.81)
+      Function tags: unknown
+      Text: Option I: The virus replicates in the cell's nucleus where DNAse can't reach.
+
+    Chunk 44:
+      Importance: -0.178889 (z-score: -1.69)
+      Function tags: unknown
+      Text: This suggests that the viruses' DNA isn't getting cut by DNAse, perhaps because they're using other ...
+
+Problem 21:
+  Overall variance: 0.008683
+  Mean importance: -0.027344
+  Potential fork reasoning steps:
+    Chunk 32:
+      Importance: -0.342584 (z-score: -3.38)
+      Function tags: unknown
+      Text: Here, they're coming back from different places, so maybe allopatric speciation is the answer.
+
+    Chunk 33:
+      Importance: -0.330000 (z-score: -3.25)
+      Function tags: unknown
+      Text: So considering all these, I think the key here is that they came back from different places, meaning...
+
+    Chunk 34:
+      Importance: -0.252626 (z-score: -2.42)
+      Function tags: unknown
+      Text: Allopatric speciation occurs when different populations form new species because they live in differ...
+
+Problem 58:
+  Overall variance: 0.008654
+  Mean importance: -0.020765
+  Potential fork reasoning steps:
+    Chunk 5:
+      Importance: -0.471395 (z-score: -4.84)
+      Function tags: unknown
+      Text: Option A says it's for mate attraction, species recognition, defense, and territorial claims.
+
+    Chunk 0:
+      Importance: -0.250000 (z-score: -2.46)
+      Function tags: unknown
+      Text: Okay, so I have to answer the question about what functions sound communication serves in animals, a...
+
+Problem 67:
+  Overall variance: 0.008493
+  Mean importance: -0.025363
+  Potential fork reasoning steps:
+    Chunk 7:
+      Importance: -0.317654 (z-score: -3.17)
+      Function tags: unknown
+      Text: Their flipper is used for flapping, similar to how birds flap their wings.
+
+    Chunk 11:
+      Importance: -0.273636 (z-score: -2.69)
+      Function tags: unknown
+      Text: C. Wing of a butterfly – This seems too direct.
+
+    Chunk 9:
+      Importance: 0.201429 (z-score: 2.46)
+      Function tags: unknown
+      Text: B. Antennae of a butterfly – These are structural features of the butterfly's body, not related to f...
+
+    Chunk 8:
+      Importance: -0.193673 (z-score: -1.83)
+      Function tags: unknown
+      Text: This could be a candidate.
+
+Problem 62:
+  Overall variance: 0.007626
+  Mean importance: -0.011789
+  Potential fork reasoning steps:
+    Chunk 8:
+      Importance: -0.343434 (z-score: -3.80)
+      Function tags: unknown
+      Text: spines of a cactus.
+
+    Chunk 23:
+      Importance: -0.257917 (z-score: -2.82)
+      Function tags: unknown
+      Text: Like, do any other chordates have structures similar to a notochord?
+
+    Chunk 36:
+      Importance: -0.255263 (z-score: -2.79)
+      Function tags: unknown
+      Text: This is a classic case of convergent evolution where similar wing shapes evolved independently in di...
+
+    Chunk 22:
+      Importance: 0.199130 (z-score: 2.42)
+      Function tags: unknown
+      Text: Is there another chordate without a notochord?
+
+    Chunk 12:
+      Importance: 0.160909 (z-score: 1.98)
+      Function tags: unknown
+      Text: C. Eyes of a human and eyes of a squid.
+
+    Chunk 13:
+      Importance: 0.125556 (z-score: 1.57)
+      Function tags: unknown
+      Text: Squids have clear eyes, while humans have eyes too, though slightly different designs.
+
+Problem 66:
+  Overall variance: 0.007487
+  Mean importance: -0.006364
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: -0.316667 (z-score: -3.59)
+      Function tags: unknown
+      Text: Okay, so I'm trying to figure out what determines the characteristics of particular organisms that e...
+
+    Chunk 4:
+      Importance: 0.183333 (z-score: 2.19)
+      Function tags: unknown
+      Text: Each of these plays a role in supporting life.
+
+    Chunk 27:
+      Importance: 0.151515 (z-score: 1.82)
+      Function tags: unknown
+      Text: I. Temperature, precipitation, soil chemistry, and trace element concentrations.
+
+Problem 77:
+  Overall variance: 0.007448
+  Mean importance: -0.017636
+  Potential fork reasoning steps:
+    Chunk 46:
+      Importance: -0.444167 (z-score: -4.94)
+      Function tags: unknown
+      Text: Option I says "elements are substances that consist of identical atoms," and "compounds are...".
+
+    Chunk 9:
+      Importance: 0.230000 (z-score: 2.87)
+      Function tags: unknown
+      Text: Option C states elements are always liquid, while compounds are solid.
+
+    Chunk 45:
+      Importance: -0.228081 (z-score: -2.44)
+      Function tags: unknown
+      Text: Maybe the key difference is that elements are pure, compounds are mixed.
+
+    Chunk 48:
+      Importance: 0.140000 (z-score: 1.83)
+      Function tags: unknown
+      Text: Wait, but the initial analysis had several correct points.
+
+Problem 78:
+  Overall variance: 0.006826
+  Mean importance: -0.004009
+  Potential fork reasoning steps:
+    Chunk 2:
+      Importance: 0.500000 (z-score: 6.10)
+      Function tags: unknown
+      Text: The organism is heterozygous, meaning it has one allele for each gene pair.
+
+    Chunk 18:
+      Importance: -0.464489 (z-score: -5.57)
+      Function tags: unknown
+      Text: So option E says 1/32, which seems right.
+
+    Chunk 22:
+      Importance: 0.213597 (z-score: 2.63)
+      Function tags: unknown
+      Text: Since there are five independent gene pairs, and each is independent, the probability of being homoz...
+
+    Chunk 24:
+      Importance: -0.216216 (z-score: -2.57)
+      Function tags: unknown
+      Text: But wait, the options don't directly say 1/1024; they start at 1/16 or higher.
+
+    Chunk 23:
+      Importance: 0.194030 (z-score: 2.40)
+      Function tags: unknown
+      Text: Calculating that: (1/4)^5 = 1/1024.
+
+    Chunk 12:
+      Importance: -0.198582 (z-score: -2.36)
+      Function tags: unknown
+      Text: That would be (1/2)^5 = 1/32.
+
+    Chunk 15:
+      Importance: 0.157932 (z-score: 1.96)
+      Function tags: unknown
+      Text: For each gene, the chance of having the right genotype after selfing should be 1/2 because you're cr...
+
+    Chunk 0:
+      Importance: 0.154570 (z-score: 1.92)
+      Function tags: unknown
+      Text: Okay, so I've got this genetics problem here about an organism with five independent gene pairs.
+
+    Chunk 1:
+      Importance: -0.153774 (z-score: -1.81)
+      Function tags: unknown
+      Text: Each pair is like A/a, B/b, etc., up to F/f.
+
+    Chunk 10:
+      Importance: -0.145455 (z-score: -1.71)
+      Function tags: unknown
+      Text: So for each gene, the probability of getting the correct allele is 1/2.
+
+    Chunk 71:
+      Importance: 0.131050 (z-score: 1.63)
+      Function tags: unknown
+      Text: Let me try another angle.
+
+    Chunk 73:
+      Importance: -0.128240 (z-score: -1.50)
+      Function tags: unknown
+      Text: For each gene, the probability of having the same allele twice is 1/2, but since all genes must be h...
+
+Problem 30:
+  Overall variance: 0.006711
+  Mean importance: -0.015908
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: 0.148571 (z-score: 2.01)
+      Function tags: unknown
+      Text: Okay, so I need to figure out which answer correctly describes the theory of evolution.
+
+    Chunk 7:
+      Importance: -0.165714 (z-score: -1.83)
+      Function tags: unknown
+      Text: B suggests it's a hypothesis being tested.
+
+    Chunk 1:
+      Importance: -0.158065 (z-score: -1.74)
+      Function tags: unknown
+      Text: Let me start by recalling what I know about evolution.
+
+Problem 81:
+  Overall variance: 0.006315
+  Mean importance: -0.022186
+  Potential fork reasoning steps:
+    Chunk 33:
+      Importance: -0.336392 (z-score: -3.95)
+      Function tags: unknown
+      Text: Therefore, the correct explanation would be that both parents are carriers (option D).
+
+    Chunk 20:
+      Importance: -0.219192 (z-score: -2.48)
+      Function tags: unknown
+      Text: Looking back at the options, option D says both parents have a homozygous trait but may or may not p...
+
+    Chunk 21:
+      Importance: -0.152308 (z-score: -1.64)
+      Function tags: unknown
+      Text: Homozygous here would mean both alleles are the same.
+
+Problem 10:
+  Overall variance: 0.005948
+  Mean importance: -0.013492
+  Potential fork reasoning steps:
+    Chunk 135:
+      Importance: -0.391111 (z-score: -4.90)
+      Function tags: unknown
+      Text: The options are:
+
+    Chunk 149:
+      Importance: -0.389275 (z-score: -4.87)
+      Function tags: unknown
+      Text: So the adopted child is the daughter with A, which is option D.
+
+    Chunk 134:
+      Importance: -0.325319 (z-score: -4.04)
+      Function tags: unknown
+      Text: Let me try to match the options.
+
+    Chunk 40:
+      Importance: 0.286517 (z-score: 3.89)
+      Function tags: unknown
+      Text: So all children would be IB, which is A-type (AB).
+
+    Chunk 36:
+      Importance: -0.238636 (z-score: -2.92)
+      Function tags: unknown
+      Text: Alternatively, maybe the father is IBIB, which would produce IB (A-type).
+
+    Chunk 130:
+      Importance: -0.174490 (z-score: -2.09)
+      Function tags: unknown
+      Text: Alternatively, the fourth child could be O, making the adopted child the daughter with A.
+
+    Chunk 148:
+      Importance: -0.157803 (z-score: -1.87)
+      Function tags: unknown
+      Text: (probably A, since all are A)
+
+    Chunk 140:
+      Importance: -0.155000 (z-score: -1.83)
+      Function tags: unknown
+      Text: F. daughter AB
+
+    Chunk 139:
+      Importance: 0.122500 (z-score: 1.76)
+      Function tags: unknown
+      Text: E. none due to mutation
+
+    Chunk 143:
+      Importance: -0.146259 (z-score: -1.72)
+      Function tags: unknown
+      Text: J. child with rare blood type
+
+    Chunk 73:
+      Importance: 0.111741 (z-score: 1.62)
+      Function tags: unknown
+      Text: So if the father is IBIB, then the children would all be AB (A-type).
+
+    Chunk 88:
+      Importance: 0.103093 (z-score: 1.51)
+      Function tags: unknown
+      Text: However, the issue is about adoption, so perhaps the adopted child is the one who wasn't born, meani...
+
+    Chunk 144:
+      Importance: -0.130000 (z-score: -1.51)
+      Function tags: unknown
+      Text: From my analysis, the father must be IBIB, leading to A-type children.
+
+Problem 36:
+  Overall variance: 0.005896
+  Mean importance: -0.007391
+  Potential fork reasoning steps:
+    Chunk 83:
+      Importance: -0.490000 (z-score: -6.29)
+      Function tags: unknown
+      Text: Therefore, the answer should be G.
+
+    Chunk 57:
+      Importance: 0.143579 (z-score: 1.97)
+      Function tags: unknown
+      Text: Therefore, every daughter has a 50% chance of inheriting Xh (hemophilia) and a 50% chance of inherit...
+
+    Chunk 32:
+      Importance: 0.111842 (z-score: 1.55)
+      Function tags: unknown
+      Text: In this case, the father has hemophilia, so he must have at least one X with the h allele.
+
+Problem 75:
+  Overall variance: 0.005847
+  Mean importance: -0.009053
+  Potential fork reasoning steps:
+    Chunk 55:
+      Importance: -0.520000 (z-score: -6.68)
+      Function tags: unknown
+      Text: So if Y is, say, 100 calories, then 0.1*100=10 calories.
+
+    Chunk 56:
+      Importance: -0.250000 (z-score: -3.15)
+      Function tags: unknown
+      Text: That matches option F (10 calories).
+
+    Chunk 59:
+      Importance: 0.135417 (z-score: 1.89)
+      Function tags: unknown
+      Text: Alternatively, perhaps the answer is 0.1 calories, which corresponds to J.
+
+    Chunk 58:
+      Importance: 0.112424 (z-score: 1.59)
+      Function tags: unknown
+      Text: This is conflicting.
+
+Problem 53:
+  Overall variance: 0.005680
+  Mean importance: 0.007176
+  Potential fork reasoning steps:
+    Chunk 32:
+      Importance: 0.460000 (z-score: 6.01)
+      Function tags: unknown
+      Text: F. The change in the length of the giraffe's neck over generations is a result of genetic drift, not...
+
+    Chunk 2:
+      Importance: -0.110000 (z-score: -1.55)
+      Function tags: unknown
+      Text: The situation is a student saying that because a giraffe stretched its neck to reach higher leaves, ...
+
+    Chunk 7:
+      Importance: -0.108980 (z-score: -1.54)
+      Function tags: unknown
+      Text: From what I remember, most physical traits are heritable—like height, weight, eye color, etc.—becaus...
+
+Problem 92:
+  Overall variance: 0.005350
+  Mean importance: -0.007764
+  Potential fork reasoning steps:
+    Chunk 42:
+      Importance: 0.197438 (z-score: 2.81)
+      Function tags: unknown
+      Text: Wait, no, because in (a), some parts are deleted, meaning the operon might not always work properly.
+
+    Chunk 49:
+      Importance: -0.205253 (z-score: -2.70)
+      Function tags: unknown
+      Text: Wait, but according to my earlier analysis, it's possible for all to be constitutive.
+
+    Chunk 0:
+      Importance: -0.154324 (z-score: -2.00)
+      Function tags: unknown
+      Text: Alright, let's tackle this question about E.
+
+    Chunk 66:
+      Importance: -0.142525 (z-score: -1.84)
+      Function tags: unknown
+      Text: Wait, but earlier I thought it might be A, but now I'm uncertain.
+
+    Chunk 2:
+      Importance: -0.138373 (z-score: -1.79)
+      Function tags: unknown
+      Text: So, the problem states that partial diploids can be produced in E.
+
+    Chunk 46:
+      Importance: -0.134409 (z-score: -1.73)
+      Function tags: unknown
+      Text: Without more specific information, it's tricky, but given the options, the answer likely depends on ...
+
+    Chunk 13:
+      Importance: 0.117495 (z-score: 1.71)
+      Function tags: unknown
+      Text: Now, the scenario says that some mutations are bypassed because of partial diploids.
+
+    Chunk 47:
+      Importance: 0.116162 (z-score: 1.69)
+      Function tags: unknown
+      Text: After careful consideration, I think that all three cases (a, b, c) might have constitutive activity...
+
+    Chunk 17:
+      Importance: -0.126733 (z-score: -1.63)
+      Function tags: unknown
+      Text: (a)i^+o+z^-y^-a^-i^+o+cz^+y+a+
+
+    Chunk 65:
+      Importance: 0.110465 (z-score: 1.62)
+      Function tags: unknown
+      Text: Given the time I've spent and trying to think through, I'll go with option A: (a) Constitutive, (b) ...
+
+    Chunk 1:
+      Importance: 0.104255 (z-score: 1.53)
+      Function tags: unknown
+      Text: coli and partial diploids affecting enzyme production.
+
+Problem 4:
+  Overall variance: 0.005310
+  Mean importance: -0.004043
+  Potential fork reasoning steps:
+    Chunk 43:
+      Importance: -0.363418 (z-score: -4.93)
+      Function tags: unknown
+      Text: Option A is Bb × Bb.
+
+    Chunk 2:
+      Importance: 0.286667 (z-score: 3.99)
+      Function tags: unknown
+      Text: The scenario is that a scientist crossed two guinea pigs, both with black coats.
+
+    Chunk 61:
+      Importance: 0.250000 (z-score: 3.49)
+      Function tags: unknown
+      Text: All offspring would get BB, so all black.
+
+    Chunk 81:
+      Importance: -0.239091 (z-score: -3.23)
+      Function tags: unknown
+      Text: - A: Bb × Bb  
+- C: bb × Bb  
+- G: Bb × BB  
+- H: BB × Bb
+
+    Chunk 90:
+      Importance: -0.182134 (z-score: -2.44)
+      Function tags: unknown
+      Text: So F and J are invalid, leaving A, C, G, H.
+
+    Chunk 44:
+      Importance: -0.174118 (z-score: -2.33)
+      Function tags: unknown
+      Text: Both parents are heterozygous.
+
+    Chunk 63:
+      Importance: 0.133804 (z-score: 1.89)
+      Function tags: unknown
+      Text: So now, the possible correct answers seem to be F, A, C, G, and H.
+
+    Chunk 55:
+      Importance: -0.140000 (z-score: -1.87)
+      Function tags: unknown
+      Text: Because regardless of which order you switch, it'll still be 50% Bb and 50% bb.
+
+    Chunk 45:
+      Importance: 0.115000 (z-score: 1.63)
+      Function tags: unknown
+      Text: Using a Punnett square, the possible offspring would be BB (25%), Bb (50%), and bb (25%).
+
+    Chunk 9:
+      Importance: -0.120000 (z-score: -1.59)
+      Function tags: unknown
+      Text: In terms of probabilities, this could mean that each offspring has a 75% chance of having at least o...
+
+    Chunk 24:
+      Importance: -0.119140 (z-score: -1.58)
+      Function tags: unknown
+      Text: Since the ratio is ¾ black to ¼ white, this implies that in each offspring, there must be at least o...
+
+    Chunk 3:
+      Importance: -0.119048 (z-score: -1.58)
+      Function tags: unknown
+      Text: Black hair is dominant over white, so we know that the dominant trait (black) is expressed, and the ...
+
+Problem 95:
+  Overall variance: 0.005094
+  Mean importance: -0.032180
+  Potential fork reasoning steps:
+    Chunk 10:
+      Importance: 0.160000 (z-score: 2.69)
+      Function tags: unknown
+      Text: But wait, chloroplasts don't use ER much, they rely more on their own cytoplasmic systems.
+
+    Chunk 18:
+      Importance: -0.157681 (z-score: -1.76)
+      Function tags: unknown
+      Text: When moving across the inner membrane, the protein would have to cross several membrane bilayers.
+
+Problem 88:
+  Overall variance: 0.004442
+  Mean importance: -0.025391
+  Potential fork reasoning steps:
+    Chunk 17:
+      Importance: -0.200000 (z-score: -2.62)
+      Function tags: unknown
+      Text: E. All same.
+
+    Chunk 25:
+      Importance: -0.153636 (z-score: -1.92)
+      Function tags: unknown
+      Text: I. Single species with little variation.
+
+    Chunk 12:
+      Importance: -0.135556 (z-score: -1.65)
+      Function tags: unknown
+      Text: C. Extreme diversity, issues with taxonomic organization, and plant-like features.
+
+    Chunk 15:
+      Importance: 0.084211 (z-score: 1.64)
+      Function tags: unknown
+      Text: D. Type of bacteria, simple classification.
+
+    Chunk 0:
+      Importance: 0.077500 (z-score: 1.54)
+      Function tags: unknown
+      Text: Okay, so I'm trying to figure out what problems arise when we refer to protozoans as belonging to ju...
+
+Problem 7:
+  Overall variance: 0.004029
+  Mean importance: 0.001895
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: 0.290000 (z-score: 4.54)
+      Function tags: unknown
+      Text: Okay, so I'm trying to figure out how radioactive isotopes are used in biological research to trace ...
+
+    Chunk 12:
+      Importance: -0.130000 (z-score: -2.08)
+      Function tags: unknown
+      Text: This seems directly related to what I was thinking.
+
+    Chunk 4:
+      Importance: -0.100779 (z-score: -1.62)
+      Function tags: unknown
+      Text: This property makes them useful for tracking changes over time because you don't have to wait for ev...
+
+Problem 27:
+  Overall variance: 0.003767
+  Mean importance: -0.006604
+  Potential fork reasoning steps:
+    Chunk 34:
+      Importance: -0.220000 (z-score: -3.48)
+      Function tags: unknown
+      Text: Different climate zones leading to different traits is a clear cline.
+
+    Chunk 5:
+      Importance: -0.210000 (z-score: -3.31)
+      Function tags: unknown
+      Text: Looking at the options:
+
+    Chunk 20:
+      Importance: 0.098765 (z-score: 1.72)
+      Function tags: unknown
+      Text: Prey availability changes as you move through a spider population.
+
+    Chunk 7:
+      Importance: 0.092222 (z-score: 1.61)
+      Function tags: unknown
+      Text: This sounds like variation within a group rather than a gradient.
+
+    Chunk 35:
+      Importance: -0.100000 (z-score: -1.52)
+      Function tags: unknown
+      Text: This matches the definition well.
+
+Problem 22:
+  Overall variance: 0.003648
+  Mean importance: -0.004486
+  Potential fork reasoning steps:
+    Chunk 15:
+      Importance: 0.147468 (z-score: 2.52)
+      Function tags: unknown
+      Text: It works better against certain pathogens like bacteria, fungi, and protozoa, but not everyone.
+
+    Chunk 8:
+      Importance: 0.140000 (z-score: 2.39)
+      Function tags: unknown
+      Text: If you have a single copy (monoploid), you're already genetically pure, so maybe this isn't right.
+
+    Chunk 28:
+      Importance: -0.139091 (z-score: -2.23)
+      Function tags: unknown
+      Text: Wait, the question is about converting monoploids to diploids, so this option seems incorrect becaus...
+
+    Chunk 16:
+      Importance: -0.128125 (z-score: -2.05)
+      Function tags: unknown
+      Text: Option D states it allows surviving in zero-gravity environments.
+
+Problem 14:
+  Overall variance: 0.003188
+  Mean importance: -0.001492
+  Potential fork reasoning steps:
+    Chunk 163:
+      Importance: -0.396250 (z-score: -6.99)
+      Function tags: unknown
+      Text: But the options don't go beyond 5%, so perhaps the answer is E.
+
+    Chunk 175:
+      Importance: 0.171429 (z-score: 3.06)
+      Function tags: unknown
+      Text: 0.5%, but I'm not sure.
+
+    Chunk 69:
+      Importance: 0.155678 (z-score: 2.78)
+      Function tags: unknown
+      Text: The second half has lower dilution (1e5), so more cells are plated.
+
+    Chunk 180:
+      Importance: -0.157419 (z-score: -2.76)
+      Function tags: unknown
+      Text: Wait, perhaps the correct formula is RF = (number of recombinant colonies)/(total number of cells) ×...
+
+    Chunk 186:
+      Importance: -0.147629 (z-score: -2.59)
+      Function tags: unknown
+      Text: Given that strain K had more plumes, it suggests that recombination increased its susceptibility.
+
+    Chunk 183:
+      Importance: 0.139796 (z-score: 2.50)
+      Function tags: unknown
+      Text: If the recombination frequency is x%, then the number of recombinant plumes would be x% of the total...
+
+    Chunk 121:
+      Importance: -0.132962 (z-score: -2.33)
+      Function tags: unknown
+      Text: Let me check the options provided:
+
+    Chunk 122:
+      Importance: 0.119487 (z-score: 2.14)
+      Function tags: unknown
+      Text: A. 1%
+B. 2%
+C.
+
+    Chunk 168:
+      Importance: -0.116263 (z-score: -2.03)
+      Function tags: unknown
+      Text: Therefore, perhaps the correct approach is to take the difference and divide by the sum to get the R...
+
+    Chunk 111:
+      Importance: -0.113080 (z-score: -1.98)
+      Function tags: unknown
+      Text: Wait, but the answer choices are all below 5% except F (0.3%).
+
+    Chunk 167:
+      Importance: 0.107273 (z-score: 1.93)
+      Function tags: unknown
+      Text: If this represents the number of recombinant cells, then RF = 36 / (40 + 4) ≈ 81.8%, which doesn't m...
+
+    Chunk 179:
+      Importance: 0.107059 (z-score: 1.92)
+      Function tags: unknown
+      Text: Alternatively, if strain K had 4 plumes and B had 40, then RF = 4/(4 + 40) ≈ 8.3%, which is closer t...
+
+    Chunk 126:
+      Importance: 0.104592 (z-score: 1.88)
+      Function tags: unknown
+      Text: 0.02%
+J. 0.05%
+K.
+
+    Chunk 178:
+      Importance: -0.104068 (z-score: -1.82)
+      Function tags: unknown
+      Text: If strain K had 40 plumes and B had 4, then RF = 40/(40 + 4) ≈ 81.8%, which is too high.
+
+    Chunk 169:
+      Importance: 0.100000 (z-score: 1.80)
+      Function tags: unknown
+      Text: Wait, perhaps the correct calculation is RF = (number of recombinant colonies) / (total number of co...
+
+    Chunk 119:
+      Importance: -0.101010 (z-score: -1.76)
+      Function tags: unknown
+      Text: Thus, RF = 4/(4+40) = 8.3%.
+
+    Chunk 164:
+      Importance: 0.094590 (z-score: 1.70)
+      Function tags: unknown
+      Text: 0.05%. Wait, but I'm not confident.
+
+    Chunk 160:
+      Importance: -0.087447 (z-score: -1.52)
+      Function tags: unknown
+      Text: The difference in plume counts reflects this increase.
+
+Problem 42:
+  Overall variance: 0.003020
+  Mean importance: 0.004552
+  Potential fork reasoning steps:
+    Chunk 6:
+      Importance: 0.170000 (z-score: 3.01)
+      Function tags: unknown
+      Text: One idea is to have a secondary bladder or something similar.
+
+    Chunk 27:
+      Importance: -0.107368 (z-score: -2.04)
+      Function tags: unknown
+      Text: Dry skin reduces water loss, and specific ducts allow for better recycling of water, which is exactl...
+
+    Chunk 20:
+      Importance: -0.080000 (z-score: -1.54)
+      Function tags: unknown
+      Text: If you have larger glomeruli, each one retains more water before passing it on to the next, so overa...
+
+Problem 99:
+  Overall variance: 0.002951
+  Mean importance: -0.022241
+  Potential fork reasoning steps:
+    Chunk 11:
+      Importance: -0.195128 (z-score: -3.18)
+      Function tags: unknown
+      Text: But does it exist in connective tissue?
+
+    Chunk 3:
+      Importance: -0.162500 (z-score: -2.58)
+      Function tags: unknown
+      Text: The options are A through D.
+
+Problem 56:
+  Overall variance: 0.002687
+  Mean importance: 0.008130
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: 0.189091 (z-score: 3.49)
+      Function tags: unknown
+      Text: Okay, so I'm trying to figure out the answer for this question about allergies.
+
+    Chunk 2:
+      Importance: -0.131753 (z-score: -2.70)
+      Function tags: unknown
+      Text: First, I need to understand what allergies are.
+
+    Chunk 7:
+      Importance: -0.086667 (z-score: -1.83)
+      Function tags: unknown
+      Text: A. Says allergies are adverse immunological responses to antigens.
+
+Problem 2:
+  Overall variance: 0.002608
+  Mean importance: -0.015516
+  Potential fork reasoning steps:
+    Chunk 2:
+      Importance: -0.160000 (z-score: -2.83)
+      Function tags: unknown
+      Text: It involves two cells merging into one, but there's something about exchanging factors.
+
+    Chunk 8:
+      Importance: -0.114694 (z-score: -1.94)
+      Function tags: unknown
+      Text: During conjugation, each cell releases a plasmid.
+
+Problem 51:
+  Overall variance: 0.002539
+  Mean importance: -0.005333
+  Potential fork reasoning steps:
+    Chunk 39:
+      Importance: -0.158889 (z-score: -3.05)
+      Function tags: unknown
+      Text: So the cell would die quickly, meaning none of the options describe survival except E, which is the ...
+
+    Chunk 30:
+      Importance: -0.151220 (z-score: -2.89)
+      Function tags: unknown
+      Text: That makes sense because without energy, the cell dies early.
+
+    Chunk 32:
+      Importance: 0.100000 (z-score: 2.09)
+      Function tags: unknown
+      Text: Still, without energy, it won't survive beyond initial growth.
+
+    Chunk 38:
+      Importance: 0.084805 (z-score: 1.79)
+      Function tags: unknown
+      Text: Because without the ability to convert galactose into lactose, it can't make any new molecules, so i...
+
+    Chunk 24:
+      Importance: -0.089596 (z-score: -1.67)
+      Function tags: unknown
+      Text: Again, without energy, it probably won't survive beyond a small size.
+
+Problem 33:
+  Overall variance: 0.002326
+  Mean importance: -0.010924
+  Potential fork reasoning steps:
+    Chunk 95:
+      Importance: -0.300000 (z-score: -5.99)
+      Function tags: unknown
+      Text: But since the user expects one letter, and considering the options, perhaps G is the better choice b...
+
+    Chunk 92:
+      Importance: -0.245000 (z-score: -4.85)
+      Function tags: unknown
+      Text: So G is correct.
+
+    Chunk 93:
+      Importance: 0.108060 (z-score: 2.47)
+      Function tags: unknown
+      Text: H: Evolution is progressive and tends toward a more perfect population.
+
+    Chunk 91:
+      Importance: -0.124348 (z-score: -2.35)
+      Function tags: unknown
+      Text: This aligns with the idea that evolution leads to phenotypes that are compromise-based, such as grad...
+
+    Chunk 90:
+      Importance: -0.107526 (z-score: -2.00)
+      Function tags: unknown
+      Text: Wait, the options include G: Phenotype is often the result of compromise.
+
+    Chunk 86:
+      Importance: -0.089184 (z-score: -1.62)
+      Function tags: unknown
+      Text: Hmm, perhaps the best fit is G and H.
+
+Problem 59:
+  Overall variance: 0.002083
+  Mean importance: -0.010182
+  Potential fork reasoning steps:
+    Chunk 17:
+      Importance: -0.171011 (z-score: -3.52)
+      Function tags: unknown
+      Text: - This looks comprehensive.
+
+    Chunk 2:
+      Importance: -0.121667 (z-score: -2.44)
+      Function tags: unknown
+      Text: They want an answer using just a single letter, so I need to pick one option that best describes wha...
+
+    Chunk 5:
+      Importance: -0.110000 (z-score: -2.19)
+      Function tags: unknown
+      Text: - Detoxification sounds right, but it's more specific than just being a detoxifying organ.
+
+    Chunk 12:
+      Importance: 0.079558 (z-score: 1.97)
+      Function tags: unknown
+      Text: But storing vitamins seems off; maybe the liver doesn't store much on its own.
+
+    Chunk 7:
+      Importance: 0.073737 (z-score: 1.84)
+      Function tags: unknown
+      Text: - Filtering out RBCs makes sense because they are part of the blood.
+
+    Chunk 11:
+      Importance: 0.061856 (z-score: 1.58)
+      Function tags: unknown
+      Text: - Insulin and glucagon are definitely part of the liver's functions.
+
+    Chunk 8:
+      Importance: -0.079401 (z-score: -1.52)
+      Function tags: unknown
+      Text: Producing urine is correct too.
+
+Problem 19:
+  Overall variance: 0.001863
+  Mean importance: -0.002120
+  Potential fork reasoning steps:
+    Chunk 10:
+      Importance: 0.140000 (z-score: 3.29)
+      Function tags: unknown
+      Text: That sounds promising.
+
+    Chunk 0:
+      Importance: -0.140000 (z-score: -3.19)
+      Function tags: unknown
+      Text: Okay, so I'm trying to figure out how to answer this question about proving that a new species of bi...
+
+    Chunk 29:
+      Importance: -0.100000 (z-score: -2.27)
+      Function tags: unknown
+      Text: Now, considering all these, the most convincing would involve both comparing with known organisms (l...
+
+Problem 11:
+  Overall variance: 0.001372
+  Mean importance: 0.001326
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: 0.230000 (z-score: 6.17)
+      Function tags: unknown
+      Text: Alright, so I have this question about the lateral-line system in fishes, and I need to figure out w...
+
+    Chunk 3:
+      Importance: -0.107802 (z-score: -2.95)
+      Function tags: unknown
+      Text: From what I remember, the lateral line is a type of nerve fiber that fish use for communication, mai...
+
+    Chunk 6:
+      Importance: -0.071111 (z-score: -1.96)
+      Function tags: unknown
+      Text: A. The lateral-line system in fishes helps with the digestion of food.
+
+    Chunk 16:
+      Importance: 0.070707 (z-score: 1.87)
+      Function tags: unknown
+      Text: No, I don't think so.
+
+    Chunk 18:
+      Importance: 0.070000 (z-score: 1.85)
+      Function tags: unknown
+      Text: C seems off.
+
+    Chunk 1:
+      Importance: -0.059130 (z-score: -1.63)
+      Function tags: unknown
+      Text: Let me think through each option one by one.
+
+    Chunk 10:
+      Importance: 0.060000 (z-score: 1.58)
+      Function tags: unknown
+      Text: B. The lateral-line system in fishes is used for excreting waste materials.
+
+    Chunk 12:
+      Importance: 0.058947 (z-score: 1.56)
+      Function tags: unknown
+      Text: I'm not sure if that's related to the lateral line.
+
+Problem 32:
+  Overall variance: 0.001330
+  Mean importance: -0.008700
+  Potential fork reasoning steps:
+    Chunk 0:
+      Importance: -0.157391 (z-score: -4.08)
+      Function tags: unknown
+      Text: Okay, so I need to figure out what properties of water make it essential for life.
+
+    Chunk 4:
+      Importance: -0.109241 (z-score: -2.76)
+      Function tags: unknown
+      Text: First, I remember that water is a solvent.
+
+Problem 86:
+  Overall variance: 0.000806
+  Mean importance: -0.001303
+  Potential fork reasoning steps:
+    Chunk 1:
+      Importance: -0.103840 (z-score: -3.61)
+      Function tags: unknown
+      Text: So, the problem is about calculating the mutation rate given some information about dominance and fi...
+
+    Chunk 24:
+      Importance: 0.087561 (z-score: 3.13)
+      Function tags: unknown
+      Text: But since the allele is dominant, and assuming it's completely recessive, q would be approximately 1...
+
+    Chunk 2:
+      Importance: 0.074894 (z-score: 2.68)
+      Function tags: unknown
+      Text: First, I remember that when dealing with mutations, especially in a population, we often use formula...
+
+    Chunk 3:
+      Importance: 0.074580 (z-score: 2.67)
+      Function tags: unknown
+      Text: But wait, the question mentions dominance and fitness, which makes me think it's more about selectio...
+
+    Chunk 79:
+      Importance: 0.074167 (z-score: 2.66)
+      Function tags: unknown
+      Text: Closest to option B (1.5e-5).
+
+    Chunk 87:
+      Importance: 0.060423 (z-score: 2.17)
+      Function tags: unknown
+      Text: Alternatively, perhaps the formula is μ = s * (1 - p)/q.
+
+    Chunk 4:
+      Importance: -0.062278 (z-score: -2.15)
+      Function tags: unknown
+      Text: However, the term "mutation rate" is used here, so maybe it's still referring to the probability of ...
+
+    Chunk 23:
+      Importance: -0.058456 (z-score: -2.01)
+      Function tags: unknown
+      Text: μ = s * p / q
+
+    Chunk 125:
+      Importance: 0.055217 (z-score: 1.99)
+      Function tags: unknown
+      Text: But in this case, the frequency of the trait is given, which suggests that only the dominant allele ...
+
+    Chunk 74:
+      Importance: -0.057033 (z-score: -1.96)
+      Function tags: unknown
+      Text: Plugging in s=0.6 and N=8000:
+
+    Chunk 128:
+      Importance: 0.051856 (z-score: 1.87)
+      Function tags: unknown
+      Text: Alternatively, maybe I should check the options again.
+
+    Chunk 75:
+      Importance: 0.051111 (z-score: 1.85)
+      Function tags: unknown
+      Text: (0.6*8000)/(1-0.6) = 4800/0.4 = 12,000.
+
+    Chunk 55:
+      Importance: -0.050505 (z-score: -1.73)
+      Function tags: unknown
+      Text: (0.6 * 8000) / (1 + 0.6) = 4800 / 1.6 = 3000.
+
+    Chunk 81:
+      Importance: 0.044516 (z-score: 1.61)
+      Function tags: unknown
+      Text: Is that necessary?
+
+    Chunk 11:
+      Importance: -0.045671 (z-score: -1.56)
+      Function tags: unknown
+      Text: So, I'll proceed with that formula.
+
+Problem 98:
+  Overall variance: 0.000634
+  Mean importance: 0.001019
+  Potential fork reasoning steps:
+    Chunk 9:
+      Importance: 0.070707 (z-score: 2.77)
+      Function tags: unknown
+      Text: Option B claims it's a tool for enhancing cognitive abilities through puzzle exposure.
+
+    Chunk 13:
+      Importance: -0.063333 (z-score: -2.56)
+      Function tags: unknown
+      Text: Again, I think Skinner boxes focus on training behaviors, not just memorizing information.
+
+    Chunk 10:
+      Importance: -0.060000 (z-score: -2.42)
+      Function tags: unknown
+      Text: While puzzles do help with problem-solving and cognitive skills, I don't recall Skinner boxes specif...
+

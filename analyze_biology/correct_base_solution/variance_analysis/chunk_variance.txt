@@ -1,0 +1,1009 @@
+Problems with highest variance in chunk importance (potential reasoning forks):
+
+Problem 39: Variance = 0.056813
+  Chunks by importance:
+    1. Chunk 14: 0.1891 - unknown - 'C. Maintain constant H+ production, irrelevant ...'
+    2. Chunk 1: 0.1485 - unknown - 'Let me start by recalling what I know about the...'
+    3. Chunk 4: 0.1275 - unknown - 'Hydrogen ions, or H+ ions, can affect the body'...'
+    4. Chunk 2: 0.0784 - unknown - 'The kidneys are responsible for filtering blood...'
+    5. Chunk 0: 0.0586 - unknown - 'Okay, so I need to figure out which answer corr...'
+    6. Chunk 10: 0.0421 - unknown - 'In this loop, hydrogen ions are actively transp...'
+    7. Chunk 16: 0.0200 - unknown - 'E. Eliminate all H+.'
+    8. Chunk 20: 0.0200 - unknown - 'I. Store H+.'
+    9. Chunk 6: 0.0102 - unknown - 'Conversely, if there are too few H+ ions, it mi...'
+    10. Chunk 8: 0.0000 - unknown - 'Maybe it's related to maintaining a certain lev...'
+    11. Chunk 9: 0.0000 - unknown - 'There's a term called the " kidneys' loop," whi...'
+    12. Chunk 18: 0.0000 - unknown - 'G. Release enzymes that neutralize H+.'
+    13. Chunk 19: 0.0000 - unknown - 'H. Convert H+ into inert gases.'
+    14. Chunk 23: 0.0000 - unknown - 'Option F mentions signaling other organs, which...'
+    15. Chunk 24: 0.0000 - unknown - '
+
+Therefore, the best answer should be B.'
+    16. Chunk 11: -0.0016 - unknown - 'Looking at the options:'
+    17. Chunk 17: -0.0051 - unknown - 'F. Detect H+ levels and signal other organs.'
+    18. Chunk 21: -0.0117 - unknown - 'J. Absorb all H+, preventing pH issues.'
+    19. Chunk 12: -0.0178 - unknown - 'A. Filters out H+ and recycles them elsewhere.'
+    20. Chunk 22: -0.0222 - unknown - 'So, option B seems correct because it involves ...'
+    21. Chunk 7: -0.0400 - unknown - 'I remember hearing about the concept of the " k...'
+    22. Chunk 5: -0.1202 - unknown - 'If the body's H+ levels are too high, it can le...'
+    23. Chunk 3: -0.1300 - unknown - 'They don't just filter; they're involved in var...'
+    24. Chunk 13: -0.7469 - unknown - 'B. Regulate H+ by excreting acids or bases when...'
+    25. Chunk 15: -0.9000 - unknown - 'D. Produce H+ to maintain balance.'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-24
+      Text: 'Okay, so I need to figure out which answer correctly describes the role of the kidneys in regulat...'
+      Tags: unknown
+
+Problem 31: Variance = 0.042239
+  Chunks by importance:
+    1. Chunk 20: 0.2300 - unknown - '- Option F says no, viruses cannot cause cancer.'
+    2. Chunk 14: 0.1606 - unknown - 'This makes sense because genetic mutations are ...'
+    3. Chunk 24: 0.1300 - unknown - '"in addition." If viruses can sometimes contrib...'
+    4. Chunk 2: 0.1189 - unknown - 'First, I remember that cancer is generally caus...'
+    5. Chunk 7: 0.1042 - unknown - 'However, unlike some other pathogenic substance...'
+    6. Chunk 19: 0.0962 - unknown - 'Since I recall viruses typically don't cause ca...'
+    7. Chunk 15: 0.0710 - unknown - '- Option D suggests lifestyle factors like diet...'
+    8. Chunk 18: 0.0400 - unknown - 'Hmm, I'm not sure if this is correct.'
+    9. Chunk 22: 0.0400 - unknown - 'But wait, there's another point.'
+    10. Chunk 23: 0.0300 - unknown - 'The concept of "only" vs.'
+    11. Chunk 4: 0.0280 - unknown - 'Now, the options provided include radiation, ch...'
+    12. Chunk 17: 0.0261 - unknown - '- Option E claims yes, viruses can cause cancer.'
+    13. Chunk 27: 0.0000 - unknown - ' Therefore, option E seems correct because it a...'
+    14. Chunk 5: -0.0013 - unknown - 'I think about how viruses typically work—they i...'
+    15. Chunk 10: -0.0189 - unknown - 'That doesn't seem right because I've heard that...'
+    16. Chunk 6: -0.0200 - unknown - 'If the virus replicates quickly enough, it can ...'
+    17. Chunk 9: -0.0211 - unknown - '- Option A says only radiation can cause cancer.'
+    18. Chunk 12: -0.0222 - unknown - 'Again, this might not be accurate since radiati...'
+    19. Chunk 1: -0.0271 - unknown - 'Let me start by recalling what I know about can...'
+    20. Chunk 3: -0.0636 - unknown - 'These mutations can lead to uncontrolled cell g...'
+    21. Chunk 26: -0.0865 - unknown - 'So putting it all together, while viruses can i...'
+    22. Chunk 16: -0.0887 - unknown - 'While these factors do contribute to certain ca...'
+    23. Chunk 11: -0.1065 - unknown - '- Option B claims only chemicals can cause cancer.'
+    24. Chunk 8: -0.1122 - unknown - 'Looking at the options:'
+    25. Chunk 21: -0.1300 - unknown - 'That seems plausible based on what I know about...'
+    26. Chunk 25: -0.2268 - unknown - 'So maybe viruses can play a role but aren't the...'
+    27. Chunk 13: -0.4300 - unknown - '- Option C states only inherited genetics can c...'
+    28. Chunk 0: -0.8900 - unknown - 'Okay, so I need to figure out whether viruses c...'
+  Potential reasoning forks:
+    Fork 1: Chunks 1-24
+      Text: 'Let me start by recalling what I know about cancer and different causes. First, I remember that c...'
+      Tags: unknown
+
+Problem 97: Variance = 0.033896
+  Chunks by importance:
+    1. Chunk 4: 0.2000 - unknown - 'They tell us that 16% of the students can't rol...'
+    2. Chunk 9: 0.0900 - unknown - 'Heterozygotes usually express the dominant trai...'
+    3. Chunk 0: 0.0819 - unknown - 'Okay, so I've got this genetics problem here ab...'
+    4. Chunk 11: 0.0800 - unknown - 'Here, p is the frequency of the dominant allele...'
+    5. Chunk 12: 0.0596 - unknown - 'Since 16% of the students are homozygous recess...'
+    6. Chunk 5: 0.0517 - unknown - 'Since the recessive trait isn't expressed when ...'
+    7. Chunk 22: 0.0250 - unknown - 'Then the heterozygote is 2*0.6*0.4=0.48, which ...'
+    8. Chunk 14: 0.0136 - unknown - 'So, q = 0.4.'
+    9. Chunk 23: 0.0100 - unknown - 'That seems correct.'
+    10. Chunk 13: 0.0000 - unknown - 'To find q, we take the square root of 0.16, whi...'
+    11. Chunk 24: 0.0000 - unknown - '
+
+Looking at the options provided, F is 48%, so...'
+    12. Chunk 18: -0.0029 - unknown - 'Plugging in the values, 2 * 0.6 * 0.4 = 0.48, o...'
+    13. Chunk 16: -0.0200 - unknown - 'So, p = 0.6, which represents the frequency of ...'
+    14. Chunk 19: -0.0258 - unknown - 'Wait, but hold on.'
+    15. Chunk 3: -0.0300 - unknown - 'So, it's like a simple Mendelian trait where on...'
+    16. Chunk 6: -0.0324 - unknown - 'So, let's denote the dominant allele as 'T' and...'
+    17. Chunk 21: -0.0400 - unknown - 'But let me double-check: yes, since 0.4 squared...'
+    18. Chunk 15: -0.0462 - unknown - 'Since p + q = 1 (the sum of all allele frequenc...'
+    19. Chunk 20: -0.0512 - unknown - 'I thought 16% was the homozygous recessive.'
+    20. Chunk 17: -0.0600 - unknown - 'Now, to find the percentage of students who are...'
+    21. Chunk 7: -0.1147 - unknown - 'Therefore, the genotype for those who can't rol...'
+    22. Chunk 2: -0.1371 - unknown - 'The question says that being able to roll your ...'
+    23. Chunk 1: -0.1403 - unknown - 'Let me try to break it down step by step.'
+    24. Chunk 10: -0.1530 - unknown - 'In a population following Hardy-Weinberg equili...'
+    25. Chunk 8: -0.8600 - unknown - 'Now, we need to find out what percentage of stu...'
+  Potential reasoning forks:
+    Fork 1: Chunks 3-6
+      Text: 'So, it's like a simple Mendelian trait where one allele gives the trait (rolling tongue) and the ...'
+      Tags: unknown
+    Fork 2: Chunks 9-24
+      Text: 'Heterozygotes usually express the dominant trait, so they would be able to roll their tongues. He...'
+      Tags: unknown
+
+Problem 82: Variance = 0.030339
+  Chunks by importance:
+    1. Chunk 18: 0.6100 - unknown - 'Option G introduces a group of genes controllin...'
+    2. Chunk 24: 0.4900 - unknown - 'Option J refers to managing genetic material.'
+    3. Chunk 13: 0.3400 - unknown - 'Option E describes a DNA region initiating repl...'
+    4. Chunk 22: 0.1700 - unknown - 'Option I is about a protein complex determining...'
+    5. Chunk 12: 0.1624 - unknown - 'Enzymes can play roles in various cellular proc...'
+    6. Chunk 26: 0.1400 - unknown - 'Now, thinking back to my biology classes, I rem...'
+    7. Chunk 15: 0.1300 - unknown - 'This could relate to how signals are set up dur...'
+    8. Chunk 9: 0.1178 - unknown - 'Option C talks about an electronic device monit...'
+    9. Chunk 10: 0.0973 - unknown - 'While some tools are useful, I don't think that...'
+    10. Chunk 1: 0.0929 - unknown - 'Let me break this down step by step because I'm...'
+    11. Chunk 14: 0.0886 - unknown - 'That rings a bell because DNA replication start...'
+    12. Chunk 32: 0.0500 - unknown - 'Wait, but Option G is about enzymes controlling...'
+    13. Chunk 0: 0.0467 - unknown - 'Okay, so I'm trying to figure out what the corr...'
+    14. Chunk 6: 0.0456 - unknown - 'Maybe like how certain chemicals guide cells to...'
+    15. Chunk 25: 0.0233 - unknown - 'Managing genes is part of heredity and developm...'
+    16. Chunk 36: 0.0200 - unknown - 'So considering both options, A and G are strong...'
+    17. Chunk 2: 0.0179 - unknown - 'First, let's look at each option from A to J an...'
+    18. Chunk 34: 0.0100 - unknown - 'If an organizer is an enzyme, then it's functio...'
+    19. Chunk 23: 0.0045 - unknown - 'Spatial organization is important in cell shape...'
+    20. Chunk 5: 0.0011 - unknown - 'That sounds familiar because I remember somethi...'
+    21. Chunk 11: 0.0000 - unknown - 'Option D refers to enzymes catalyzing reactions...'
+    22. Chunk 16: 0.0000 - unknown - 'Option F says a membrane-bound compartment cont...'
+    23. Chunk 30: 0.0000 - unknown - 'However, the question is asking for the definit...'
+    24. Chunk 39: 0.0000 - unknown - ' Since the question is about development influe...'
+    25. Chunk 20: -0.0050 - unknown - 'Option H suggests coordinating events.'
+    26. Chunk 19: -0.0074 - unknown - 'That makes sense because gene regulation is cru...'
+    27. Chunk 37: -0.0104 - unknown - 'But the question asks for a single-letter answe...'
+    28. Chunk 38: -0.0108 - unknown - 'Between them, A is more about signaling and mol...'
+    29. Chunk 8: -0.0146 - unknown - 'That doesn't seem right because an organizer wo...'
+    30. Chunk 31: -0.0208 - unknown - 'I'm leaning towards Option A because it directl...'
+    31. Chunk 17: -0.0219 - unknown - 'Compartmentalization is part of cell structure,...'
+    32. Chunk 35: -0.0303 - unknown - 'But earlier, Option A was about signaling molec...'
+    33. Chunk 33: -0.0305 - unknown - 'That's another layer of complexity.'
+    34. Chunk 3: -0.0500 - unknown - 'The question is asking which one defines an org...'
+    35. Chunk 4: -0.0543 - unknown - 'Option A says an organizer is a chemical secret...'
+    36. Chunk 28: -0.0638 - unknown - 'That aligns with Option A, which talks about ch...'
+    37. Chunk 29: -0.0737 - unknown - 'Additionally, in terms of cell behavior, starti...'
+    38. Chunk 21: -0.0982 - unknown - 'Coordination is related to how systems work tog...'
+    39. Chunk 7: -0.3204 - unknown - 'Option B mentions organizing tasks.'
+    40. Chunk 27: -0.5100 - unknown - 'So an organiser in this context might refer to ...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-1
+      Text: 'Okay, so I'm trying to figure out what the correct answer is to this question about "organizers" ...'
+      Tags: unknown
+    Fork 2: Chunks 9-15
+      Text: 'Option C talks about an electronic device monitoring processes. While some tools are useful, I do...'
+      Tags: unknown
+    Fork 3: Chunks 22-26
+      Text: 'Option I is about a protein complex determining spatial organization. Option J refers to managing...'
+      Tags: unknown
+
+Problem 47: Variance = 0.030076
+  Chunks by importance:
+    1. Chunk 11: 0.2719 - unknown - 'Looking at the options:'
+    2. Chunk 18: 0.2100 - unknown - 'Option D claims insemination is joining, which ...'
+    3. Chunk 19: 0.1500 - unknown - 'Also, copulation being semen deposition sounds ...'
+    4. Chunk 0: 0.1100 - unknown - 'Okay, so I'm trying to figure out how to answer...'
+    5. Chunk 27: 0.1100 - unknown - 'Option H says insemination is joining, which co...'
+    6. Chunk 25: 0.0902 - unknown - 'Option G states fertilization is semen depositi...'
+    7. Chunk 16: 0.0867 - unknown - 'Option C says fertilization is joining, insemin...'
+    8. Chunk 14: 0.0866 - unknown - 'Option B suggests insemination is the process o...'
+    9. Chunk 9: 0.0557 - unknown - 'Fertilization is the union of the sperm and egg...'
+    10. Chunk 8: 0.0500 - unknown - 'This is a key part of sexual communication and ...'
+    11. Chunk 21: 0.0500 - unknown - 'Fertilization should be separate from that.'
+    12. Chunk 15: 0.0479 - unknown - 'So B might be wrong.'
+    13. Chunk 1: 0.0367 - unknown - 'The options are labeled A through J, each provi...'
+    14. Chunk 3: 0.0317 - unknown - 'Let me start by recalling what each process ent...'
+    15. Chunk 2: 0.0200 - unknown - 'First, I need to understand what each term mean...'
+    16. Chunk 23: 0.0155 - unknown - 'Wait, that would mean fertilization is the same...'
+    17. Chunk 17: 0.0052 - unknown - 'That doesn't align because I think insemination...'
+    18. Chunk 6: 0.0000 - unknown - 'It's crucial because it sets up for further sex...'
+    19. Chunk 31: 0.0000 - unknown - ' That makes sense because insemination is the s...'
+    20. Chunk 5: -0.0200 - unknown - 'This happens during the initial phase of sexual...'
+    21. Chunk 30: -0.0270 - unknown - 'So, going back, Option A correctly identifies i...'
+    22. Chunk 29: -0.0335 - unknown - 'Option J incorrectly swaps insemination with jo...'
+    23. Chunk 20: -0.0500 - unknown - 'Option E says copulation is gamete union, which...'
+    24. Chunk 4: -0.0542 - unknown - 'Insemination refers to the process where the sp...'
+    25. Chunk 22: -0.0610 - unknown - 'Option F suggests fertilization is joining, ins...'
+    26. Chunk 24: -0.0800 - unknown - 'Because fertilization happens later than joining.'
+    27. Chunk 7: -0.0854 - unknown - 'Copulation involves the actual physical joining...'
+    28. Chunk 26: -0.1250 - unknown - 'But I don't think that's quite right either bec...'
+    29. Chunk 10: -0.1482 - unknown - 'This process occurs after the sperm has deposit...'
+    30. Chunk 13: -0.3634 - unknown - 'That seems correct based on my understanding.'
+    31. Chunk 12: -0.4221 - unknown - 'Option A says copulation is joining, inseminati...'
+    32. Chunk 28: -0.6344 - unknown - 'Option I says insemination is joining, which ag...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-11
+      Text: 'Okay, so I'm trying to figure out how to answer this question about distinguishing between three ...'
+      Tags: unknown
+    Fork 2: Chunks 14-27
+      Text: 'Option B suggests insemination is the process of depositing semen, which matches, but copulation ...'
+      Tags: unknown
+
+Problem 84: Variance = 0.028334
+  Chunks by importance:
+    1. Chunk 1: 0.0636 - unknown - 'The options are A to H.'
+    2. Chunk 4: 0.0000 - unknown - 'So looking at the options, E is pheromones, whi...'
+    3. Chunk 5: 0.0000 - unknown - 'But let me think about the other options to mak...'
+    4. Chunk 6: 0.0000 - unknown - 'Auxins (A) are involved in plant responses, lik...'
+    5. Chunk 7: 0.0000 - unknown - 'Transmitters (B) are usually biological signals...'
+    6. Chunk 8: 0.0000 - unknown - 'Enzymes (C) break down food into useful molecul...'
+    7. Chunk 9: 0.0000 - unknown - 'Hormones (D) regulate internal bodily functions...'
+    8. Chunk 10: 0.0000 - unknown - 'Antigens (G) are parts of the immune system, an...'
+    9. Chunk 11: 0.0000 - unknown - 'Cytokines (F) are signaling molecules involved ...'
+    10. Chunk 12: 0.0000 - unknown - 'So none of these fit except E, pheromones.'
+    11. Chunk 13: 0.0000 - unknown - 'They release these chemicals to attract or infl...'
+    12. Chunk 14: 0.0000 - unknown - ' That makes sense because pheromones are widely...'
+    13. Chunk 3: -0.0299 - unknown - 'Pheromones are chemicals that can influence beh...'
+    14. Chunk 0: -0.0357 - unknown - 'Okay, I need to figure out which answer is corr...'
+    15. Chunk 2: -0.6700 - unknown - 'First, I remember that when an organism release...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-14
+      Text: 'Okay, I need to figure out which answer is correct for the question about chemical substances rel...'
+      Tags: unknown
+
+Problem 16: Variance = 0.027434
+  Chunks by importance:
+    1. Chunk 37: 0.3898 - unknown - 'Wait, J says coniferous plants have evergreen f...'
+    2. Chunk 25: 0.0789 - unknown - 'Also incorrect about conifer vs flowering.'
+    3. Chunk 7: 0.0547 - unknown - 'I think angiosperms are related to flowers beca...'
+    4. Chunk 0: 0.0407 - unknown - 'Okay, let's try to figure out this question.'
+    5. Chunk 27: 0.0360 - unknown - 'D. Says both have enclosed seeds, but coniders ...'
+    6. Chunk 3: 0.0315 - unknown - 'But wait, no, wait—gymnosperm refers to the typ...'
+    7. Chunk 29: 0.0315 - unknown - 'E. Correct on the meanings, but wrong on the di...'
+    8. Chunk 14: 0.0300 - unknown - 'Conifers are trees that store seeds underground.'
+    9. Chunk 6: 0.0237 - unknown - 'Then there's angiosperm.'
+    10. Chunk 4: 0.0217 - unknown - 'So if it's a gymnosperm, does that mean it has ...'
+    11. Chunk 9: 0.0210 - unknown - 'But wait, isn't every plant either a gymnosperm...'
+    12. Chunk 30: 0.0163 - unknown - 'F. Mixes up what gymnosperm and angiosperm mean.'
+    13. Chunk 20: 0.0112 - unknown - 'They're needle-like and have xylem made mostly ...'
+    14. Chunk 10: 0.0111 - unknown - 'Or are there exceptions?'
+    15. Chunk 2: 0.0100 - unknown - 'Gymnosperms are actually the same as gymnosperm...'
+    16. Chunk 12: 0.0100 - unknown - 'Maybe I should look at that later.'
+    17. Chunk 32: 0.0028 - unknown - 'G. Confuses what angiosperms produce.'
+    18. Chunk 16: 0.0023 - unknown - 'Flowering plants usually have cones for reprodu...'
+    19. Chunk 17: 0.0009 - unknown - 'So why are conifers considered separate?'
+    20. Chunk 19: 0.0002 - unknown - 'Also, conifers have different leaves compared t...'
+    21. Chunk 31: 0.0002 - unknown - 'Also, incorrect about conifer vs flowering.'
+    22. Chunk 40: 0.0000 - unknown - ' That matches what I remembered about conifers ...'
+    23. Chunk 23: -0.0004 - unknown - 'Also, incorrect about conifer vs flowering plants.'
+    24. Chunk 35: -0.0041 - unknown - 'I. Corrects the meanings, but the distinction a...'
+    25. Chunk 28: -0.0095 - unknown - 'Doesn't seem right because I know conifers have...'
+    26. Chunk 15: -0.0100 - unknown - 'They have fruitlet-shaped fruits.'
+    27. Chunk 18: -0.0100 - unknown - 'Oh, because they don't produce fruits yet; they...'
+    28. Chunk 36: -0.0116 - unknown - 'J. Corrects the meanings, but again, the distin...'
+    29. Chunk 33: -0.0197 - unknown - 'Also, doesn't address the conifer vs flowering ...'
+    30. Chunk 8: -0.0200 - unknown - 'So they must be the ones that give us our food,...'
+    31. Chunk 13: -0.0300 - unknown - 'Now, the second part of the question is about d...'
+    32. Chunk 21: -0.0300 - unknown - 'Looking back at the options provided, let me go...'
+    33. Chunk 24: -0.0300 - unknown - 'B. Same issue as A.'
+    34. Chunk 11: -0.0336 - unknown - 'Like some plants might not fit neatly into one ...'
+    35. Chunk 1: -0.0339 - unknown - 'So, the user is asking about two terms: 'gymnos...'
+    36. Chunk 26: -0.0352 - unknown - 'C. Talks about broad, flat leaves, but I think ...'
+    37. Chunk 22: -0.0797 - unknown - 'A. Seems to mix up what gymnosperm and angiospe...'
+    38. Chunk 5: -0.0900 - unknown - 'Hmm, maybe I'm mixing up things here.'
+    39. Chunk 39: -0.1639 - unknown - 'Let me double-check: H says angiosperm means 'e...'
+    40. Chunk 38: -0.2905 - unknown - 'So the correct answer would probably be H or J.'
+    41. Chunk 34: -0.9201 - unknown - 'H. Corrects the meanings and addresses the coni...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-20
+      Text: 'Okay, let's try to figure out this question. Gymnosperms are actually the same as gymnosperm, so ...'
+      Tags: unknown
+    Fork 2: Chunks 23-37
+      Text: 'Also, incorrect about conifer vs flowering plants. Also incorrect about conifer vs flowering. D. ...'
+      Tags: unknown
+
+Problem 63: Variance = 0.027274
+  Chunks by importance:
+    1. Chunk 57: 0.6700 - unknown - 'But none of the options exactly match that.'
+    2. Chunk 35: 0.3566 - unknown - 'Wait, let me clarify the roles again:
+1.'
+    3. Chunk 29: 0.2528 - unknown - 'Hmm, no, I think RNA poly is bound by regulator...'
+    4. Chunk 22: 0.1727 - unknown - 'No, actually, promoters allow activity.'
+    5. Chunk 25: 0.1495 - unknown - 'Option B:
+- Regulatory genes RNA poly, operator...'
+    6. Chunk 32: 0.1329 - unknown - 'But does operator code for proteins?'
+    7. Chunk 46: 0.1186 - unknown - 'Alternatively, Option G:
+- Operator codes for s...'
+    8. Chunk 49: 0.1184 - unknown - 'Wait, another angle: Promoter genes are necessa...'
+    9. Chunk 44: 0.1140 - unknown - 'Wait, that doesn't quite fit.'
+    10. Chunk 11: 0.1100 - unknown - 'So, putting that together:
+- Promoter genes are...'
+    11. Chunk 2: 0.1061 - unknown - 'Let me try to break this down step by step.'
+    12. Chunk 48: 0.0836 - unknown - 'Maybe the best approach is to look for terms li...'
+    13. Chunk 8: 0.0808 - unknown - 'There's something called an operator region too...'
+    14. Chunk 20: 0.0676 - unknown - 'Hmm, that seems reversed.'
+    15. Chunk 14: 0.0524 - unknown - 'They can include things like transcription fact...'
+    16. Chunk 27: 0.0500 - unknown - 'So this might mix up roles.'
+    17. Chunk 43: 0.0473 - unknown - 'E says:
+- Promoter codes for repressors, operat...'
+    18. Chunk 23: 0.0400 - unknown - 'Wait, but some promoters might have repressors.'
+    19. Chunk 58: 0.0376 - unknown - 'Let me check the options again:'
+    20. Chunk 1: 0.0225 - unknown - 'The options are labeled A through H, each givin...'
+    21. Chunk 19: 0.0212 - unknown - 'Option A says:
+- Operator genes code for protei...'
+    22. Chunk 13: 0.0199 - unknown - '- Regulatory genes are involved in controlling ...'
+    23. Chunk 34: 0.0143 - unknown - 'So maybe that's incorrect.'
+    24. Chunk 6: 0.0053 - unknown - 'Promoter genes are regions in the DNA that help...'
+    25. Chunk 38: 0.0018 - unknown - '2. Operator: Specific sequence in promoter wher...'
+    26. Chunk 4: 0.0001 - unknown - 'So, when transcription starts, it binds to the ...'
+    27. Chunk 15: 0.0000 - unknown - 'These might also involve RNA polymerase binding...'
+    28. Chunk 61: 0.0000 - unknown - ' So despite the wording in the options, I think...'
+    29. Chunk 5: -0.0087 - unknown - 'The promoter is often marked by specific sequen...'
+    30. Chunk 18: -0.0134 - unknown - 'Now, looking at the options:'
+    31. Chunk 45: -0.0159 - unknown - 'Because if RNA poly is bound by regulatory gene...'
+    32. Chunk 42: -0.0167 - unknown - 'Looking back at the options, perhaps the correc...'
+    33. Chunk 52: -0.0186 - unknown - 'Regulatory genes might include transcription fa...'
+    34. Chunk 39: -0.0189 - unknown - '3. Regulatory genes: Control whether transcript...'
+    35. Chunk 50: -0.0214 - unknown - 'They have sequences that RNA polymerase can rec...'
+    36. Chunk 56: -0.0245 - unknown - 'Structural genes provide the machinery needed f...'
+    37. Chunk 40: -0.0252 - unknown - 'They may include RNA poly binding sites or othe...'
+    38. Chunk 51: -0.0289 - unknown - 'Operators are within these promoter regions—the...'
+    39. Chunk 10: -0.0298 - unknown - 'When the repressor finds its target (like an op...'
+    40. Chunk 30: -0.0367 - unknown - 'Option D:
+- Operator as binding site for RNA po...'
+    41. Chunk 16: -0.0400 - unknown - '- Structural genes are probably related to RNA ...'
+    42. Chunk 7: -0.0404 - unknown - 'They're important because they contain sequence...'
+    43. Chunk 17: -0.0559 - unknown - 'They might be the enzymes or proteins that help...'
+    44. Chunk 0: -0.0581 - unknown - 'Okay, so I have this biology question about gen...'
+    45. Chunk 37: -0.0639 - unknown - 'It includes operator regions where repressors b...'
+    46. Chunk 9: -0.0781 - unknown - 'The operator acts as a binding site for repress...'
+    47. Chunk 12: -0.0800 - unknown - '- Operator genes are part of the promoter struc...'
+    48. Chunk 24: -0.0842 - unknown - 'Maybe not.'
+    49. Chunk 36: -0.0900 - unknown - 'Promoter: Starts transcription.'
+    50. Chunk 33: -0.1182 - unknown - 'I thought operators are for binding, not coding.'
+    51. Chunk 31: -0.1390 - unknown - 'That sounds closer.'
+    52. Chunk 26: -0.1424 - unknown - 'But wait, operator genes are about binding, not...'
+    53. Chunk 28: -0.1457 - unknown - 'Option C:
+- Structural genes for repressors, re...'
+    54. Chunk 21: -0.1709 - unknown - 'Promoters should prevent activity?'
+    55. Chunk 3: -0.1729 - unknown - 'First, I remember that in the context of gene r...'
+    56. Chunk 53: -0.2200 - unknown - 'Structural genes could be proteins that stabili...'
+    57. Chunk 47: -0.2236 - unknown - 'No, that's getting mixed up.'
+    58. Chunk 60: -0.2959 - unknown - 'Yes, that matches my understanding.'
+    59. Chunk 55: -0.3030 - unknown - 'That seems more accurate.'
+    60. Chunk 41: -0.3300 - unknown - '4. Structural genes: Enzymes or proteins that h...'
+    61. Chunk 59: -0.3767 - unknown - 'Option I: Structural genes code for RNA poly, r...'
+    62. Chunk 54: -0.4419 - unknown - 'Looking at option I:
+- Structural genes code fo...'
+  Potential reasoning forks:
+    Fork 1: Chunks 1-8
+      Text: 'The options are labeled A through H, each giving different descriptions. Let me try to break this...'
+      Tags: unknown
+    Fork 2: Chunks 11-15
+      Text: 'So, putting that together:
+- Promoter genes are responsible for initiating transcription. - Regul...'
+      Tags: unknown
+    Fork 3: Chunks 18-29
+      Text: 'Now, looking at the options: Option A says:
+- Operator genes code for proteins, regulatory genes ...'
+      Tags: unknown
+    Fork 4: Chunks 32-35
+      Text: 'But does operator code for proteins? So maybe that's incorrect. Wait, let me clarify the roles ag...'
+      Tags: unknown
+    Fork 5: Chunks 42-49
+      Text: 'Looking back at the options, perhaps the correct one is E: E says:
+- Promoter codes for repressor...'
+      Tags: unknown
+    Fork 6: Chunks 57-58
+      Text: 'But none of the options exactly match that. Let me check the options again:'
+      Tags: unknown
+
+Problem 70: Variance = 0.027264
+  Chunks by importance:
+    1. Chunk 10: 0.3167 - unknown - 'B. Meter, kilogram, second.'
+    2. Chunk 25: 0.2900 - unknown - 'However, F lists only two units, while others m...'
+    3. Chunk 32: 0.2100 - unknown - 'I. Inch and yard.'
+    4. Chunk 28: 0.1700 - unknown - 'Both are much smaller than centimeter and decim...'
+    5. Chunk 38: 0.1135 - unknown - 'But since the focus is on microscopic and measu...'
+    6. Chunk 5: 0.1100 - unknown - 'So, maybe micrometers or even smaller units lik...'
+    7. Chunk 6: 0.0914 - unknown - 'Looking at the options:'
+    8. Chunk 12: 0.0900 - unknown - 'Kilogram is mass, and second is time, but they ...'
+    9. Chunk 34: 0.0800 - unknown - 'However, they could still be considered if we'r...'
+    10. Chunk 14: 0.0729 - unknown - 'These are all larger units—liter is volume, hec...'
+    11. Chunk 7: 0.0722 - unknown - 'A. micron (μm) and Ångströms (Å).'
+    12. Chunk 0: 0.0600 - unknown - 'Okay, so I'm trying to figure out which answer ...'
+    13. Chunk 40: 0.0500 - unknown - 'G uses millimeters and picometers, which are al...'
+    14. Chunk 41: 0.0274 - unknown - 'Therefore, the correct answer should be either ...'
+    15. Chunk 36: 0.0268 - unknown - 'These are historical units of distance, way too...'
+    16. Chunk 22: 0.0178 - unknown - 'These are meters divided into smaller parts.'
+    17. Chunk 20: 0.0058 - unknown - 'Units related to length and time, but again, no...'
+    18. Chunk 16: 0.0000 - unknown - 'D. Mile, ton, hour.'
+    19. Chunk 19: 0.0000 - unknown - 'E. Foot, pound, minute.'
+    20. Chunk 26: 0.0000 - unknown - 'G. Millimeter and picometer.'
+    21. Chunk 29: 0.0000 - unknown - 'H. Kilometer and metric ton.'
+    22. Chunk 35: 0.0000 - unknown - 'J. Leagues and fathoms.'
+    23. Chunk 42: 0.0000 - unknown - ' Since the question provides multiple-choice an...'
+    24. Chunk 33: -0.0041 - unknown - 'While inches and yards are units of length, the...'
+    25. Chunk 21: -0.0067 - unknown - 'F. Centimeter and decimeter.'
+    26. Chunk 18: -0.0077 - unknown - 'Doesn't fit microscopic context.'
+    27. Chunk 4: -0.0158 - unknown - 'Microscopic usually relates to something on a s...'
+    28. Chunk 27: -0.0217 - unknown - 'Millimeter is 1/1000th of a meter, and picomete...'
+    29. Chunk 23: -0.0267 - unknown - 'Centimeter is 1/10th of a meter, and decimeter ...'
+    30. Chunk 15: -0.0400 - unknown - 'Not relevant for microscopic measurements.'
+    31. Chunk 17: -0.0416 - unknown - 'Again, miles are distance, tons are mass, hours...'
+    32. Chunk 2: -0.0516 - unknown - 'First, the biologist works at the microscopic l...'
+    33. Chunk 31: -0.0589 - unknown - 'Doesn't fit microscopic context.'
+    34. Chunk 1: -0.0700 - unknown - 'Let me break it down step by step.'
+    35. Chunk 24: -0.0921 - unknown - 'But units like millimeters and picometers are a...'
+    36. Chunk 3: -0.0935 - unknown - 'That means the units should be tiny.'
+    37. Chunk 30: -0.1100 - unknown - 'Kilometer is a large unit of length, and metric...'
+    38. Chunk 8: -0.1400 - unknown - 'These are both extremely small units of length,...'
+    39. Chunk 13: -0.1400 - unknown - 'C. Liter, hectare, joule.'
+    40. Chunk 11: -0.1759 - unknown - 'Those are standard SI units but not necessarily...'
+    41. Chunk 39: -0.3133 - unknown - 'Between them, A uses micrometers and angstroms,...'
+    42. Chunk 9: -0.3771 - unknown - 'They seem relevant here because the biologist w...'
+    43. Chunk 37: -0.7100 - unknown - 'So, between A, G, and possibly B.'
+  Potential reasoning forks:
+    Fork 1: Chunks 4-7
+      Text: 'Microscopic usually relates to something on a scale smaller than a micrometer, right? So, maybe m...'
+      Tags: unknown
+    Fork 2: Chunks 10-22
+      Text: 'B. Meter, kilogram, second. Kilogram is mass, and second is time, but they don't directly relate ...'
+      Tags: unknown
+    Fork 3: Chunks 25-29
+      Text: 'However, F lists only two units, while others might have more precise subdivisions. G. Millimeter...'
+      Tags: unknown
+    Fork 4: Chunks 32-42
+      Text: 'I. Inch and yard. While inches and yards are units of length, they are larger than a millimeter, ...'
+      Tags: unknown
+
+Problem 40: Variance = 0.027070
+  Chunks by importance:
+    1. Chunk 19: 0.3545 - unknown - 'Yes, that makes sense.'
+    2. Chunk 1: 0.2450 - unknown - 'The user has provided a list of options from A ...'
+    3. Chunk 16: 0.1008 - unknown - 'I'm pretty sure that while some stores do have ...'
+    4. Chunk 27: 0.0856 - unknown - 'Option H mentions that glucose is used to produ...'
+    5. Chunk 29: 0.0555 - unknown - 'Option I says glucose is only used as a structu...'
+    6. Chunk 9: 0.0374 - unknown - 'Cells use glucose primarily as an energy source...'
+    7. Chunk 13: 0.0357 - unknown - 'Glucose isn't solely used for amino acids; many...'
+    8. Chunk 8: 0.0200 - unknown - 'That doesn't sound right at all.'
+    9. Chunk 24: 0.0100 - unknown - 'But since the question is about cell metabolism...'
+    10. Chunk 7: 0.0000 - unknown - 'Option B claims that glucose can only be conver...'
+    11. Chunk 11: 0.0000 - unknown - 'Option C states that glucose is exclusively use...'
+    12. Chunk 12: 0.0000 - unknown - 'Wait, I think that's not true either.'
+    13. Chunk 15: 0.0000 - unknown - 'Option D suggests that glucose can be stored on...'
+    14. Chunk 18: 0.0000 - unknown - 'Option E says glucose is only used for energy p...'
+    15. Chunk 25: 0.0000 - unknown - 'Option G states that glucose cannot be stored i...'
+    16. Chunk 31: 0.0000 - unknown - 'Option J suggests that glucose is not involved ...'
+    17. Chunk 35: 0.0000 - unknown - ' It accurately describes glucose's multiple rol...'
+    18. Chunk 14: -0.0100 - unknown - 'So this option might not be correct.'
+    19. Chunk 23: -0.0153 - unknown - 'This aligns with the idea that proteins require...'
+    20. Chunk 26: -0.0188 - unknown - 'This is definitely false because various forms ...'
+    21. Chunk 33: -0.0189 - unknown - 'Glucose is essential for cell metabolism, and i...'
+    22. Chunk 10: -0.0200 - unknown - 'So this option is likely incorrect.'
+    23. Chunk 0: -0.0222 - unknown - 'Alright, let's tackle this question about gluco...'
+    24. Chunk 28: -0.0258 - unknown - 'I don't recall that as a primary function of gl...'
+    25. Chunk 32: -0.0279 - unknown - 'No, that's completely wrong.'
+    26. Chunk 30: -0.0299 - unknown - 'This seems incorrect because glucose is both an...'
+    27. Chunk 6: -0.0348 - unknown - 'So this seems plausible.'
+    28. Chunk 17: -0.0467 - unknown - 'So this option might not be entirely accurate.'
+    29. Chunk 3: -0.0542 - unknown - 'First, I'll go through each option one by one t...'
+    30. Chunk 34: -0.0700 - unknown - 'So, after evaluating each option, Option A stan...'
+    31. Chunk 5: -0.0821 - unknown - 'This sounds familiar because I remember that du...'
+    32. Chunk 20: -0.1400 - unknown - 'In most cells, except those involved in specifi...'
+    33. Chunk 2: -0.1465 - unknown - 'My task is to determine which option is correct...'
+    34. Chunk 22: -0.1800 - unknown - 'Option F claims that glucose can be directly co...'
+    35. Chunk 21: -0.2771 - unknown - 'However, some cells may have alternative energy...'
+    36. Chunk 4: -0.7900 - unknown - 'Option A says that glucose is the primary sourc...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-1
+      Text: 'Alright, let's tackle this question about glucose's role in cell metabolism. The user has provide...'
+      Tags: unknown
+    Fork 2: Chunks 7-19
+      Text: 'Option B claims that glucose can only be converted into fat. That doesn't sound right at all. Cel...'
+      Tags: unknown
+    Fork 3: Chunks 23-35
+      Text: 'This aligns with the idea that proteins require amino acids, and glucose isn't typically used as ...'
+      Tags: unknown
+
+Problem 64: Variance = 0.025570
+  Chunks by importance:
+    1. Chunk 24: 0.5100 - unknown - 'While viruses do cause various diseases, arteri...'
+    2. Chunk 21: 0.4600 - unknown - 'Factors like stress or nervous tension can also...'
+    3. Chunk 7: 0.1429 - unknown - 'Maybe it's called "narrowing" sometimes.'
+    4. Chunk 5: 0.1363 - unknown - 'Now, arteriosclerosis...'
+    5. Chunk 40: 0.1188 - unknown - 'Option J says arteries become more flexible due...'
+    6. Chunk 13: 0.0883 - unknown - 'Option B mentions high blood pressure.'
+    7. Chunk 30: 0.0759 - unknown - 'arteriosclerosis isn't about veins hardening bu...'
+    8. Chunk 8: 0.0598 - unknown - 'The options given talk about different causes.'
+    9. Chunk 9: 0.0583 - unknown - 'Option A says it's an inflammation caused by ba...'
+    10. Chunk 43: 0.0572 - unknown - 'So putting it all together, arteriosclerosis is...'
+    11. Chunk 19: 0.0377 - unknown - 'I remember reading that smoking increases the r...'
+    12. Chunk 12: 0.0366 - unknown - 'But arteriosclerosis specifically refers to a n...'
+    13. Chunk 28: 0.0329 - unknown - 'Veins are usually healthy, especially in young ...'
+    14. Chunk 16: 0.0100 - unknown - 'Probably not directly; it's more about the vess...'
+    15. Chunk 38: 0.0100 - unknown - 'No, that's not right either.'
+    16. Chunk 20: 0.0076 - unknown - 'Also, obesity and high-fat diets contribute to ...'
+    17. Chunk 11: 0.0062 - unknown - 'Or wait, could it be a type of inflammation, li...'
+    18. Chunk 36: 0.0050 - unknown - 'Plus, sedentary lifestyle might lead to weight ...'
+    19. Chunk 2: 0.0000 - unknown - 'Arteries are tubes that carry blood from the he...'
+    20. Chunk 27: 0.0000 - unknown - 'Wait, that doesn't sound right.'
+    21. Chunk 44: 0.0000 - unknown - ' Among the options, option C correctly identifi...'
+    22. Chunk 1: -0.0076 - unknown - 'Let me start by recalling what I know about art...'
+    23. Chunk 31: -0.0100 - unknown - 'Option F points out that the walls thin and wea...'
+    24. Chunk 4: -0.0118 - unknown - 'So if one part of the artery becomes thinner or...'
+    25. Chunk 42: -0.0137 - unknown - 'Flexibility allows them to adapt to changes in ...'
+    26. Chunk 14: -0.0158 - unknown - 'High BP can contribute to artery diseases becau...'
+    27. Chunk 34: -0.0167 - unknown - 'Option G says it's characterized by vein narrow...'
+    28. Chunk 39: -0.0213 - unknown - 'Capillaries are fine under normal conditions, a...'
+    29. Chunk 3: -0.0218 - unknown - 'They have elastic walls because they can stretc...'
+    30. Chunk 41: -0.0300 - unknown - 'Again, flexibility isn't the defining feature o...'
+    31. Chunk 15: -0.0310 - unknown - 'But does arteriosclerosis itself result in high...'
+    32. Chunk 35: -0.0315 - unknown - 'That seems contradictory because venous narrowi...'
+    33. Chunk 29: -0.0328 - unknown - 'Hardening of veins is more common in conditions...'
+    34. Chunk 37: -0.0618 - unknown - 'Option H mentions capillaries hardening due to ...'
+    35. Chunk 33: -0.0627 - unknown - 'Also, some conditions like hypertension and dia...'
+    36. Chunk 22: -0.0655 - unknown - 'Option D suggests it's caused by a virus.'
+    37. Chunk 23: -0.0752 - unknown - 'I'm less sure about that.'
+    38. Chunk 18: -0.0805 - unknown - 'That rings a bell.'
+    39. Chunk 25: -0.1000 - unknown - 'Unless there's something specific about the vir...'
+    40. Chunk 0: -0.1100 - unknown - 'Okay, so I need to figure out what arterioscler...'
+    41. Chunk 6: -0.1300 - unknown - 'I think that's related to the thinning of the a...'
+    42. Chunk 10: -0.2000 - unknown - 'Hmm, that sounds familiar—bacterial infections ...'
+    43. Chunk 32: -0.2200 - unknown - 'Yeah, I remember reading that genetic predispos...'
+    44. Chunk 17: -0.3455 - unknown - 'Option C talks about a thickened wall with conn...'
+    45. Chunk 26: -0.5700 - unknown - 'Option E says it's when veins harden due to cal...'
+  Potential reasoning forks:
+    Fork 1: Chunks 1-2
+      Text: 'Let me start by recalling what I know about arteries and their structure. Arteries are tubes that...'
+      Tags: unknown
+    Fork 2: Chunks 5-13
+      Text: 'Now, arteriosclerosis... Maybe it's called "narrowing" sometimes. The options given talk about di...'
+      Tags: unknown
+    Fork 3: Chunks 19-21
+      Text: 'I remember reading that smoking increases the risk of arteriosclerosis because it damages smooth ...'
+      Tags: unknown
+    Fork 4: Chunks 27-30
+      Text: 'Wait, that doesn't sound right. Veins are usually healthy, especially in young people. arterioscl...'
+      Tags: unknown
+    Fork 5: Chunks 36-40
+      Text: 'Plus, sedentary lifestyle might lead to weight gain and muscle loss, but that's more about genera...'
+      Tags: unknown
+    Fork 6: Chunks 43-44
+      Text: 'So putting it all together, arteriosclerosis is mainly due to genetic factors and environmental i...'
+      Tags: unknown
+
+Problem 41: Variance = 0.025272
+  Chunks by importance:
+    1. Chunk 25: 0.2188 - unknown - 'So A and E cover broader adaptations.'
+    2. Chunk 6: 0.1641 - unknown - 'That probably means option E, which mentions th...'
+    3. Chunk 1: 0.1200 - unknown - 'The options are A through J, each suggesting di...'
+    4. Chunk 13: 0.1100 - unknown - 'And a reproductive style protects the embryo, s...'
+    5. Chunk 5: 0.1000 - unknown - 'Their skin is tough because they're adapted to ...'
+    6. Chunk 4: 0.0586 - unknown - 'So they don't have true leaves; instead, they h...'
+    7. Chunk 22: 0.0573 - unknown - 'Lastly, option J refers to producing wood and s...'
+    8. Chunk 17: 0.0505 - unknown - 'So C doesn't seem right.'
+    9. Chunk 19: 0.0300 - unknown - 'But the general statement isn't accurate becaus...'
+    10. Chunk 20: 0.0222 - unknown - 'Option H suggests true leaves, stems, and roots...'
+    11. Chunk 24: 0.0200 - unknown - 'Wait, looking back, the question asks for "adap...'
+    12. Chunk 12: 0.0089 - unknown - 'Porous surfaces make sense for preventing water...'
+    13. Chunk 9: 0.0000 - unknown - 'So option F might not be accurate here since th...'
+    14. Chunk 26: 0.0000 - unknown - ' Option C is incorrect because Bryophytes aren'...'
+    15. Chunk 15: -0.0029 - unknown - 'Option C talks about vascular tissues, but I th...'
+    16. Chunk 3: -0.0047 - unknown - 'They're part of the gymnosperms, right?'
+    17. Chunk 16: -0.0100 - unknown - 'They primarily have piths and xylem, which is t...'
+    18. Chunk 8: -0.0100 - unknown - 'Flowers are more common in Camphor and Rosaceae...'
+    19. Chunk 7: -0.0188 - unknown - 'Also, I remember that Bryophytes don't produce ...'
+    20. Chunk 23: -0.0329 - unknown - 'So putting it together, the best answers are A ...'
+    21. Chunk 18: -0.0333 - unknown - 'Options D and G mention survival without water ...'
+    22. Chunk 11: -0.0467 - unknown - 'Cutinization refers to the ridges on the epider...'
+    23. Chunk 21: -0.0548 - unknown - 'Option I says they can produce wood and seconda...'
+    24. Chunk 2: -0.1743 - unknown - 'First, I should recall what Bryophytes are.'
+    25. Chunk 10: -0.3085 - unknown - 'Looking at other options, rhizoids are definite...'
+    26. Chunk 0: -0.3800 - unknown - 'Okay, so I need to figure out the correct answe...'
+    27. Chunk 14: -0.5462 - unknown - 'So A covers several points.'
+  Potential reasoning forks:
+    Fork 1: Chunks 1-9
+      Text: 'The options are A through J, each suggesting different adaptations like rhizoids, cutinized epide...'
+      Tags: unknown
+    Fork 2: Chunks 12-26
+      Text: 'Porous surfaces make sense for preventing water loss, like the cuticle. And a reproductive style ...'
+      Tags: unknown
+
+Problem 26: Variance = 0.022361
+  Chunks by importance:
+    1. Chunk 23: 0.2561 - unknown - 'Thorax and head both needed; E.'
+    2. Chunk 28: 0.1861 - unknown - 'Only head; J.'
+    3. Chunk 29: 0.1843 - unknown - 'Only thorax.'
+    4. Chunk 26: 0.1800 - unknown - 'Inhibitor in head; H.'
+    5. Chunk 24: 0.1442 - unknown - 'Environmental factors; F.'
+    6. Chunk 21: 0.1229 - unknown - 'Head is necessary; C.'
+    7. Chunk 16: 0.1136 - unknown - 'Or perhaps the anterior head's pivot is essenti...'
+    8. Chunk 17: 0.0972 - unknown - 'So if the head is missing, the anterior tail wo...'
+    9. Chunk 12: 0.0900 - unknown - 'Wait, maybe I'm confusing it with another insect.'
+    10. Chunk 4: 0.0727 - unknown - 'So normally, without any changes, the moth does...'
+    11. Chunk 9: 0.0409 - unknown - 'If you remove one head, the other remains, but ...'
+    12. Chunk 8: 0.0400 - unknown - 'The anterior head usually has the pivot point w...'
+    13. Chunk 32: 0.0251 - unknown - 'Some sources say that in certain cases, like wh...'
+    14. Chunk 2: 0.0189 - unknown - 'First, the question says that the hormone respo...'
+    15. Chunk 34: 0.0000 - unknown - '
+
+Yes, so the correct answer should be I.'
+    16. Chunk 6: -0.0008 - unknown - 'Hmm, why? Let me recall what I know about metam...'
+    17. Chunk 1: -0.0187 - unknown - 'Let me think through this step by step.'
+    18. Chunk 0: -0.0256 - unknown - 'Okay, so I need to figure out why the cecropia ...'
+    19. Chunk 5: -0.0371 - unknown - 'But when the head is removed, even though the l...'
+    20. Chunk 7: -0.0467 - unknown - 'Moths have two heads—the anterior and posterior.'
+    21. Chunk 3: -0.0513 - unknown - 'That part seems clear.'
+    22. Chunk 31: -0.0567 - unknown - 'But wait, let me double-check.'
+    23. Chunk 13: -0.0674 - unknown - 'In some insects, like grasshoppers, removing th...'
+    24. Chunk 25: -0.0775 - unknown - 'Abdomen; G.'
+    25. Chunk 22: -0.0800 - unknown - 'Head secretes a different hormone; D.'
+    26. Chunk 27: -0.0800 - unknown - 'Neither needed; I.'
+    27. Chunk 15: -0.0826 - unknown - 'Because without the head, the anterior tail and...'
+    28. Chunk 33: -0.0829 - unknown - 'Without either, the transformation fails.'
+    29. Chunk 11: -0.0833 - unknown - 'Or just one?'
+    30. Chunk 14: -0.1063 - unknown - 'But in moths, I think both heads are required.'
+    31. Chunk 18: -0.1500 - unknown - 'That would explain why the transformation still...'
+    32. Chunk 10: -0.1565 - unknown - 'Wait, does that mean both heads are needed?'
+    33. Chunk 19: -0.2560 - unknown - 'Looking at the options:'
+    34. Chunk 20: -0.3427 - unknown - 'A. Only the thorax gland requires a signal; B.'
+    35. Chunk 30: -0.5100 - unknown - 'From my reasoning, since both heads are necessa...'
+  Potential reasoning forks:
+    Fork 1: Chunks 1-9
+      Text: 'Let me think through this step by step. First, the question says that the hormone responsible for...'
+      Tags: unknown
+    Fork 2: Chunks 16-17
+      Text: 'Or perhaps the anterior head's pivot is essential for proper coordination during metamorphosis. S...'
+      Tags: unknown
+    Fork 3: Chunks 21-29
+      Text: 'Head is necessary; C. Thorax and head both needed; E. Environmental factors; F. Inhibitor in head...'
+      Tags: unknown
+    Fork 4: Chunks 32-34
+      Text: 'Some sources say that in certain cases, like when developing into adults, both anterior and poste...'
+      Tags: unknown
+
+Problem 25: Variance = 0.022261
+  Chunks by importance:
+    1. Chunk 24: 0.4300 - unknown - 'Then "balanced polymorphism is when different f...'
+    2. Chunk 28: 0.2910 - unknown - 'Looking back at **Option B**, it correctly defi...'
+    3. Chunk 26: 0.2461 - unknown - '- **Option D** says "genetic load is the geneti...'
+    4. Chunk 53: 0.2108 - unknown - 'Wait, but genetic load is more accurately defin...'
+    5. Chunk 54: 0.1932 - unknown - 'Hmm, so maybe **Option B** is better because it...'
+    6. Chunk 34: 0.1889 - unknown - 'Genetic load typically refers to the number of ...'
+    7. Chunk 51: 0.1769 - unknown - '- **Balanced Polymorphism**: When different gen...'
+    8. Chunk 46: 0.1537 - unknown - 'Genetic load is the genetic weight—maybe referr...'
+    9. Chunk 12: 0.1195 - unknown - 'These mutations can lead to phenotypic changes,...'
+    10. Chunk 49: 0.1162 - unknown - 'According to standard definitions:'
+    11. Chunk 15: 0.1068 - unknown - '- **Option F** mentions "gene pool refers to a ...'
+    12. Chunk 10: 0.1030 - unknown - 'Or perhaps it means that the population maintai...'
+    13. Chunk 6: 0.0927 - unknown - 'So, it's like the raw material that can be pass...'
+    14. Chunk 0: 0.0850 - unknown - 'Okay, so I need to figure out what these three ...'
+    15. Chunk 18: 0.0800 - unknown - 'Hmm, maybe it's referring to the total alleles,...'
+    16. Chunk 21: 0.0746 - unknown - 'Alternatively, option G could be mixing up conc...'
+    17. Chunk 41: 0.0651 - unknown - '**Option A**: Gene pool is total number of orga...'
+    18. Chunk 55: 0.0432 - unknown - 'But I'm not certain.'
+    19. Chunk 22: 0.0422 - unknown - 'Let me look again.'
+    20. Chunk 31: 0.0308 - unknown - 'Or wait, genetic weight often refers to the cum...'
+    21. Chunk 7: 0.0251 - unknown - '2. **Balanced Polymorphism (or Polymorphic Bala...'
+    22. Chunk 5: 0.0247 - unknown - 'It includes all the genes present in the organi...'
+    23. Chunk 17: 0.0219 - unknown - '- **Option G** says "Gene pool is the total num...'
+    24. Chunk 27: 0.0210 - unknown - 'So D might be incorrect.'
+    25. Chunk 39: 0.0184 - unknown - 'So, going back to **Option E**: "Gene pool is t...'
+    26. Chunk 33: 0.0087 - unknown - 'Let me clarify.'
+    27. Chunk 52: 0.0076 - unknown - '- **Genetic Load**: The total number of genes r...'
+    28. Chunk 57: 0.0000 - unknown - '
+
+Given the confusion, I'll go with **Option C*...'
+    29. Chunk 35: -0.0036 - unknown - 'So if an organism has a bad allele, it reduces ...'
+    30. Chunk 32: -0.0103 - unknown - 'Wait, now I'm confused.'
+    31. Chunk 40: -0.0140 - unknown - 'So E is wrong.'
+    32. Chunk 44: -0.0143 - unknown - 'Gene pool is sum of genes.'
+    33. Chunk 42: -0.0162 - unknown - 'No, that's a population size, not the actual ge...'
+    34. Chunk 36: -0.0264 - unknown - 'If genetic load is the number of such alleles, ...'
+    35. Chunk 1: -0.0265 - unknown - 'The user has given me options from A to H, each...'
+    36. Chunk 29: -0.0286 - unknown - 'Balanced polymorphism as imbalance in allele fr...'
+    37. Chunk 13: -0.0345 - unknown - 'Genetic load also relates to how many new genes...'
+    38. Chunk 2: -0.0349 - unknown - 'My task is to choose the correct one based on m...'
+    39. Chunk 3: -0.0368 - unknown - 'First, let's break down each term:'
+    40. Chunk 37: -0.0404 - unknown - 'But sometimes it's ambiguous.'
+    41. Chunk 38: -0.0496 - unknown - 'Some sources say genetic load is the number of ...'
+    42. Chunk 47: -0.0580 - unknown - 'But I'm still not 100% confident.'
+    43. Chunk 30: -0.0665 - unknown - 'Genetic load as the genetic weight—so the numbe...'
+    44. Chunk 8: -0.0675 - unknown - 'I know that polymorphisms are different forms o...'
+    45. Chunk 11: -0.0747 - unknown - '3. **Genetic Load**: This usually refers to the...'
+    46. Chunk 14: -0.0762 - unknown - 'Now, looking at the options:'
+    47. Chunk 16: -0.0762 - unknown - 'Also, "balanced polymorphism refers to a domina...'
+    48. Chunk 20: -0.0770 - unknown - 'But I think that's conflating things.'
+    49. Chunk 4: -0.0895 - unknown - '1. **Gene Pool**: This should refer to the enti...'
+    50. Chunk 9: -0.1136 - unknown - 'Maybe it refers to having multiple alleles main...'
+    51. Chunk 19: -0.1313 - unknown - 'Wait, actually, no—the term "total number of al...'
+    52. Chunk 50: -0.1354 - unknown - '- **Gene Pool**: The total collection of all al...'
+    53. Chunk 48: -0.1909 - unknown - 'Let me check definitions.'
+    54. Chunk 45: -0.2143 - unknown - 'Balanced polymorphism is about equilibrium, pos...'
+    55. Chunk 25: -0.2737 - unknown - 'It might mean that different genotypes maintain...'
+    56. Chunk 56: -0.3571 - unknown - 'Alternatively, **Option C** is more precise in ...'
+    57. Chunk 43: -0.3950 - unknown - '**Option C**: Looks better.'
+    58. Chunk 23: -0.3955 - unknown - '- **Option C** talks about "gene pool is the su...'
+  Potential reasoning forks:
+    Fork 1: Chunks 5-7
+      Text: 'It includes all the genes present in the organisms, both in diploid and haploid states. So, it's ...'
+      Tags: unknown
+    Fork 2: Chunks 10-12
+      Text: 'Or perhaps it means that the population maintains multiple alleles at a locus because of balancin...'
+      Tags: unknown
+    Fork 3: Chunks 15-18
+      Text: '- **Option F** mentions "gene pool refers to a single gene." That doesn't sound right because a g...'
+      Tags: unknown
+    Fork 4: Chunks 21-28
+      Text: 'Alternatively, option G could be mixing up concepts. Let me look again. Then "balanced polymorphi...'
+      Tags: unknown
+    Fork 5: Chunks 31-34
+      Text: 'Or wait, genetic weight often refers to the cumulative effect on fitness, but sometimes it's used...'
+      Tags: unknown
+    Fork 6: Chunks 39-41
+      Text: 'So, going back to **Option E**: "Gene pool is the collection of genes in a single organism." No, ...'
+      Tags: unknown
+    Fork 7: Chunks 49-57
+      Text: 'According to standard definitions: - **Balanced Polymorphism**: When different genotypes maintain...'
+      Tags: unknown
+
+Problem 43: Variance = 0.022170
+  Chunks by importance:
+    1. Chunk 30: 0.2514 - unknown - 'Since the yolk is described as having an outer ...'
+    2. Chunk 12: 0.1285 - unknown - 'Maybe it's something else.'
+    3. Chunk 27: 0.0469 - unknown - 'Alternatively, the membrane around the inner ce...'
+    4. Chunk 28: 0.0436 - unknown - 'Wait, perhaps the answer is referring to the yolk.'
+    5. Chunk 3: 0.0432 - unknown - 'First, I remember that during early embry devel...'
+    6. Chunk 6: 0.0351 - unknown - 'The extraembryonic membrane that's extra on top...'
+    7. Chunk 14: 0.0222 - unknown - 'The outer layer surrounding the zygote is the e...'
+    8. Chunk 0: 0.0219 - unknown - 'Okay, so I'm trying to figure out which answer ...'
+    9. Chunk 7: 0.0208 - unknown - 'But wait, looking at the options, "endo" isn't ...'
+    10. Chunk 9: 0.0183 - unknown - 'So maybe the term is related to the yolk.'
+    11. Chunk 2: 0.0133 - unknown - 'Let me break it down.'
+    12. Chunk 1: 0.0114 - unknown - 'The question is asking what extraembryonic memb...'
+    13. Chunk 10: 0.0000 - unknown - 'Another thought: the membrane that surrounds th...'
+    14. Chunk 16: 0.0000 - unknown - 'amnion, B.'
+    15. Chunk 17: 0.0000 - unknown - 'blastoderm, C.'
+    16. Chunk 18: 0.0000 - unknown - 'embryonic disc, D.'
+    17. Chunk 19: 0.0000 - unknown - 'chorion, E.'
+    18. Chunk 20: 0.0000 - unknown - 'yolk sac, F.'
+    19. Chunk 21: 0.0000 - unknown - 'eggshell, G.'
+    20. Chunk 22: 0.0000 - unknown - 'egg yolk, H.'
+    21. Chunk 23: 0.0000 - unknown - 'placenta, I.'
+    22. Chunk 24: 0.0000 - unknown - 'zona pellucida, J.'
+    23. Chunk 25: 0.0000 - unknown - 'allantois.'
+    24. Chunk 34: 0.0000 - unknown - ' egg yolk.'
+    25. Chunk 26: -0.0040 - unknown - 'So, the term for an extraembryonic membrane is ...'
+    26. Chunk 32: -0.0341 - unknown - 'So if the membrane providing nourishment is aro...'
+    27. Chunk 5: -0.0354 - unknown - 'The options given include terms like amnion, bl...'
+    28. Chunk 4: -0.0394 - unknown - 'The embryo has different layers and components.'
+    29. Chunk 11: -0.0679 - unknown - 'Again, this doesn't match the options directly.'
+    30. Chunk 13: -0.0707 - unknown - 'Wait, there's also the concept of the oocyte an...'
+    31. Chunk 8: -0.1883 - unknown - 'Instead, I see "yolk," which refers to the egg ...'
+    32. Chunk 31: -0.2458 - unknown - 'Alternatively, considering the options, the "yo...'
+    33. Chunk 15: -0.2545 - unknown - 'Hmm. Looking back at the options provided: A.'
+    34. Chunk 29: -0.3067 - unknown - 'The yolk is part of the egg, and the membrane a...'
+    35. Chunk 33: -0.6818 - unknown - 'Therefore, the answer should be G.'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-34
+      Text: 'Okay, so I'm trying to figure out which answer corresponds to the correct term in the question ab...'
+      Tags: unknown
+
+Problem 65: Variance = 0.021446
+  Chunks by importance:
+    1. Chunk 20: 0.2991 - unknown - 'If the axon terminals can't release, then neuro...'
+    2. Chunk 13: 0.2367 - unknown - 'That would fit with option H, where the neurotr...'
+    3. Chunk 32: 0.1584 - unknown - 'Wait, but if the axon terminals can't release, ...'
+    4. Chunk 19: 0.1200 - unknown - 'Wait, another thought: the release process itse...'
+    5. Chunk 22: 0.0868 - unknown - 'But does that mean they don't release?'
+    6. Chunk 23: 0.0533 - unknown - 'Or does it stop their movement?'
+    7. Chunk 24: 0.0319 - unknown - 'Hmm, maybe the terminal cells themselves aren't...'
+    8. Chunk 28: 0.0276 - unknown - 'G mentions dendritic presence.'
+    9. Chunk 27: 0.0100 - unknown - 'D is about vesicle location.'
+    10. Chunk 0: 0.0000 - unknown - 'Okay, so I'm trying to figure out why the neuro...'
+    11. Chunk 1: 0.0000 - unknown - 'Let me think about what I know about synapses a...'
+    12. Chunk 2: 0.0000 - unknown - 'First, when a neurotransmitter is released into...'
+    13. Chunk 3: 0.0000 - unknown - 'If it goes the other way, like from the postsyn...'
+    14. Chunk 4: 0.0000 - unknown - 'So maybe the presynaptic area doesn't send anyt...'
+    15. Chunk 5: 0.0000 - unknown - 'But wait, some experiments show that sometimes ...'
+    16. Chunk 6: 0.0000 - unknown - 'That's probably where option J comes in—dendrit...'
+    17. Chunk 7: 0.0000 - unknown - 'But the main reason is probably something else.'
+    18. Chunk 8: 0.0000 - unknown - 'I remember something about the cell bodies or t...'
+    19. Chunk 34: 0.0000 - unknown - ' So option C.'
+    20. Chunk 18: -0.0100 - unknown - 'Also, F isn't one of the options; looking back,...'
+    21. Chunk 31: -0.0147 - unknown - 'Alternatively, the absence of release mechanism...'
+    22. Chunk 25: -0.0151 - unknown - 'Looking again, the options: A is about electric...'
+    23. Chunk 17: -0.0190 - unknown - 'Option F suggests degradation right away, but I...'
+    24. Chunk 9: -0.0200 - unknown - 'Maybe if the presynaptic neurons don't have eno...'
+    25. Chunk 16: -0.0248 - unknown - 'Option C is about the neurotransmitters being i...'
+    26. Chunk 11: -0.0462 - unknown - 'Also, the postsynaptic neurons probably don't h...'
+    27. Chunk 21: -0.0620 - unknown - 'So option E says axonal terminals lack machiner...'
+    28. Chunk 29: -0.0805 - unknown - 'H is about the vesicle being in the dendrite.'
+    29. Chunk 12: -0.1214 - unknown - 'So if the neurotransmitters are only in the axo...'
+    30. Chunk 14: -0.1300 - unknown - 'Wait, no, H says dendrites pump it back, so may...'
+    31. Chunk 26: -0.1613 - unknown - 'B talks about receptor placement.'
+    32. Chunk 30: -0.2479 - unknown - 'The most likely reasoning is that neurotransmit...'
+    33. Chunk 33: -0.2481 - unknown - 'So the correct explanation is probably that the...'
+    34. Chunk 10: -0.3600 - unknown - 'So option C says neurotransmitters are only pre...'
+    35. Chunk 15: -0.5100 - unknown - 'So putting it together, the correct answer must...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-9
+      Text: 'Okay, so I'm trying to figure out why the neurotransmitter travels unidirectionally from the pres...'
+      Tags: unknown
+    Fork 2: Chunks 16-28
+      Text: 'Option C is about the neurotransmitters being in the axonal end, allowing them to exit. Option F ...'
+      Tags: unknown
+    Fork 3: Chunks 31-34
+      Text: 'Alternatively, the absence of release mechanisms in the axon terminals could prevent neurotransmi...'
+      Tags: unknown
+
+Problem 24: Variance = 0.021348
+  Chunks by importance:
+    1. Chunk 22: 0.2800 - unknown - 'Wait, I should double-check.'
+    2. Chunk 20: 0.1900 - unknown - '- H says they can't live without oxygen, which ...'
+    3. Chunk 8: 0.1735 - unknown - 'On the other hand, facultative anaerobes don't ...'
+    4. Chunk 17: 0.1431 - unknown - '- E talks about obligate needing low oxygen for...'
+    5. Chunk 12: 0.1320 - unknown - 'However, unlike obligate ones, they don't neces...'
+    6. Chunk 0: 0.0824 - unknown - 'Okay, so I need to figure out how to answer thi...'
+    7. Chunk 14: 0.0633 - unknown - 'That sounds right.'
+    8. Chunk 1: 0.0575 - unknown - 'Let me start by recalling what I know about ana...'
+    9. Chunk 19: 0.0479 - unknown - '- G mentions using oxygen when available, which...'
+    10. Chunk 27: 0.0200 - unknown - 'Hmm, maybe I need to see if any options cover b...'
+    11. Chunk 2: 0.0100 - unknown - 'Anaerobic bacteria like methanogens are able to...'
+    12. Chunk 23: 0.0063 - unknown - 'The question asks for the difference between fa...'
+    13. Chunk 26: 0.0000 - unknown - 'But the original question seems to ask for a si...'
+    14. Chunk 29: 0.0000 - unknown - 'Option I provides additional context on their p...'
+    15. Chunk 30: 0.0000 - unknown - 'Since the question is asking for the difference...'
+    16. Chunk 31: 0.0000 - unknown - 'Alternatively, combining them could be tricky.'
+    17. Chunk 32: 0.0000 - unknown - ' Maybe the best answer is B, as it clearly stat...'
+    18. Chunk 6: -0.0107 - unknown - 'They thrive in environments where oxygen is ava...'
+    19. Chunk 10: -0.0207 - unknown - 'For example, in high-oxygen environments, they ...'
+    20. Chunk 25: -0.0212 - unknown - 'Since I can only pick one letter, I'll choose B...'
+    21. Chunk 15: -0.0235 - unknown - '- B confirms they can live either with or witho...'
+    22. Chunk 11: -0.0255 - unknown - 'But even then, they can still function without ...'
+    23. Chunk 28: -0.0408 - unknown - 'Looking again, option B directly addresses the ...'
+    24. Chunk 9: -0.0533 - unknown - 'They can exist in both oxygen-rich and oxygen-p...'
+    25. Chunk 4: -0.0600 - unknown - 'The key difference between them is whether they...'
+    26. Chunk 3: -0.0795 - unknown - 'They have two main types: facultative and oblig...'
+    27. Chunk 21: -0.1000 - unknown - '- I correctly identifies that facultatives can ...'
+    28. Chunk 18: -0.1168 - unknown - '- F suggests they can live either way, which is...'
+    29. Chunk 16: -0.1205 - unknown - '- C and D are incorrect because they suggest th...'
+    30. Chunk 13: -0.1671 - unknown - 'So looking back at the options:
+- A says they e...'
+    31. Chunk 5: -0.2800 - unknown - 'Obligatory anaerobes, also known as anaerobic, ...'
+    32. Chunk 24: -0.3478 - unknown - 'So the correct choices are B and I.'
+    33. Chunk 7: -0.4900 - unknown - 'So, they live either in the presence or absence...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-2
+      Text: 'Okay, so I need to figure out how to answer this question about facultative anaerobes and obligat...'
+      Tags: unknown
+    Fork 2: Chunks 6-14
+      Text: 'They thrive in environments where oxygen is available because they don't need it. On the other ha...'
+      Tags: unknown
+    Fork 3: Chunks 17-32
+      Text: '- E talks about obligate needing low oxygen for short times, which doesn't fit because they don't...'
+      Tags: unknown
+
+Problem 57: Variance = 0.021325
+  Chunks by importance:
+    1. Chunk 12: 0.3043 - unknown - 'Maybe E refers more to mutation effects rather ...'
+    2. Chunk 19: 0.1753 - unknown - 'Option B is about directly observing genes atta...'
+    3. Chunk 4: 0.1200 - unknown - 'My task is to pick one correct answer.'
+    4. Chunk 14: 0.0964 - unknown - 'Option J mentions that proteins from different ...'
+    5. Chunk 7: 0.0596 - unknown - 'I think that in lab settings, they saw that wit...'
+    6. Chunk 17: 0.0596 - unknown - 'That sounds like it points towards common ances...'
+    7. Chunk 2: 0.0433 - unknown - 'First, the question is asking for what evidence...'
+    8. Chunk 21: 0.0326 - unknown - 'But I'm not sure if that's considered the same ...'
+    9. Chunk 16: 0.0300 - unknown - 'Option F talks about identical sequences in unr...'
+    10. Chunk 8: 0.0124 - unknown - 'This led to a mismatched amino acid sequence in...'
+    11. Chunk 29: 0.0000 - unknown - '
+
+So the most direct evidence comes from the ri...'
+    12. Chunk 1: -0.0067 - unknown - 'Let me break it down.'
+    13. Chunk 28: -0.0100 - unknown - 'So both E and I seem possible, but the question...'
+    14. Chunk 24: -0.0105 - unknown - 'So that would support the idea that genes influ...'
+    15. Chunk 26: -0.0108 - unknown - 'Alternatively, option I says ribosome malfuncti...'
+    16. Chunk 27: -0.0432 - unknown - 'That also makes sense because if the gene isn't...'
+    17. Chunk 23: -0.0444 - unknown - 'This shows that the absence of a gene leads to ...'
+    18. Chunk 5: -0.0600 - unknown - 'I remember that when studying genetics, especia...'
+    19. Chunk 15: -0.0610 - unknown - 'But that might be more of an evolutionary or ph...'
+    20. Chunk 9: -0.0654 - unknown - 'So if a gene isn't present, the resulting prote...'
+    21. Chunk 0: -0.0700 - unknown - 'Okay, so I need to figure out which answer corr...'
+    22. Chunk 3: -0.0951 - unknown - 'The options are labeled A to J, each making a s...'
+    23. Chunk 20: -0.0967 - unknown - 'That sounds more like in vivo studies where you...'
+    24. Chunk 10: -0.1067 - unknown - 'That seems relevant because it shows direct int...'
+    25. Chunk 25: -0.1082 - unknown - 'Therefore, option E might be the right choice h...'
+    26. Chunk 18: -0.1129 - unknown - 'But again, that's more of an observational fact...'
+    27. Chunk 13: -0.1500 - unknown - 'Or perhaps E is talking about how mutations in ...'
+    28. Chunk 6: -0.1584 - unknown - 'One famous one involves ribosomes and their rol...'
+    29. Chunk 22: -0.3800 - unknown - 'Wait, going back to the ribosome experiment, wh...'
+    30. Chunk 11: -0.5100 - unknown - 'Looking at the options, option E says "Ingram's...'
+  Potential reasoning forks:
+    Fork 1: Chunks 1-4
+      Text: 'Let me break it down. First, the question is asking for what evidence supports the idea that gene...'
+      Tags: unknown
+    Fork 2: Chunks 7-8
+      Text: 'I think that in lab settings, they saw that without a specific gene (like the rRNA gene), ribosom...'
+      Tags: unknown
+    Fork 3: Chunks 12-21
+      Text: 'Maybe E refers more to mutation effects rather than the direct evidence about genes controlling a...'
+      Tags: unknown
+    Fork 4: Chunks 24-29
+      Text: 'So that would support the idea that genes influence these sequences. Alternatively, option I says...'
+      Tags: unknown
+
+Problem 15: Variance = 0.019894
+  Chunks by importance:
+    1. Chunk 0: 0.4582 - unknown - 'Okay, so I have to figure out what the major fo...'
+    2. Chunk 21: 0.3800 - unknown - 'Gene flow is the transfer of genes between popu...'
+    3. Chunk 20: 0.3200 - unknown - 'Option D includes mutation, gene flow, migratio...'
+    4. Chunk 3: 0.1000 - unknown - 'First, I remember that in evolutionary biology,...'
+    5. Chunk 44: 0.0883 - unknown - 'So perhaps the correct answer should exclude ge...'
+    6. Chunk 22: 0.0838 - unknown - 'Migration would be a form of gene flow but spec...'
+    7. Chunk 46: 0.0700 - unknown - 'But the question asks for major forces, which t...'
+    8. Chunk 11: 0.0628 - unknown - 'Option B lists mutation, genetic drift, migrati...'
+    9. Chunk 30: 0.0583 - unknown - 'Movement could refer to migration or other form...'
+    10. Chunk 43: 0.0500 - unknown - 'Wait, but earlier I thought that genetic drift ...'
+    11. Chunk 7: 0.0500 - unknown - 'Looking at the options, let me check which ones...'
+    12. Chunk 34: 0.0499 - unknown - 'However, sexual selection isn't always consider...'
+    13. Chunk 25: 0.0479 - unknown - 'Option E says adaptation, genetic drift, migrat...'
+    14. Chunk 18: 0.0467 - unknown - 'Random mating is another term for genetic drift...'
+    15. Chunk 31: 0.0448 - unknown - 'Again, genetic drift might not be the primary f...'
+    16. Chunk 36: 0.0236 - unknown - 'Artificial selection is a human intervention, w...'
+    17. Chunk 4: 0.0120 - unknown - 'Mutation is definitely one because every gene h...'
+    18. Chunk 17: 0.0100 - unknown - 'Option C mentions mutation, genetic drift, migr...'
+    19. Chunk 27: 0.0100 - unknown - 'Genetic drift and migration are still relevant.'
+    20. Chunk 2: 0.0097 - unknown - 'Let me break it down.'
+    21. Chunk 1: 0.0097 - unknown - 'The options given are A through J, each listing...'
+    22. Chunk 13: 0.0092 - unknown - 'Migration refers to movement between population...'
+    23. Chunk 19: 0.0043 - unknown - 'So maybe C covers some aspects, but again, I'm ...'
+    24. Chunk 15: 0.0033 - unknown - 'But does this list capture all necessary forces?'
+    25. Chunk 28: 0.0000 - unknown - 'So while it's correct in some points, I'm not s...'
+    26. Chunk 35: 0.0000 - unknown - 'Option H starts with mutation, genetic drift, n...'
+    27. Chunk 50: 0.0000 - unknown - ' So J fits well.'
+    28. Chunk 26: -0.0011 - unknown - 'Adaptation is a result of natural selection, so...'
+    29. Chunk 39: -0.0020 - unknown - 'This mixes up genetic drift and migration, whic...'
+    30. Chunk 5: -0.0064 - unknown - 'Then there's natural selection, where advantage...'
+    31. Chunk 16: -0.0069 - unknown - 'It seems incomplete because I don't see sexual ...'
+    32. Chunk 10: -0.0086 - unknown - 'Reproduction might involve passing the mutation...'
+    33. Chunk 48: -0.0106 - unknown - 'G includes sexual selection, which isn't a prim...'
+    34. Chunk 47: -0.0200 - unknown - 'So maybe the best answer is G or J.'
+    35. Chunk 49: -0.0222 - unknown - 'Alternatively, considering the standard list, t...'
+    36. Chunk 29: -0.0291 - unknown - 'Option F lists mutation, genetic drift, movemen...'
+    37. Chunk 23: -0.0293 - unknown - 'So this option includes four main forces: mutat...'
+    38. Chunk 24: -0.0300 - unknown - 'Wait, that's a bit confusing because gene flow ...'
+    39. Chunk 6: -0.0389 - unknown - 'That makes sense because organisms with better ...'
+    40. Chunk 32: -0.0400 - unknown - 'Option G includes mutation, genetic drift, migr...'
+    41. Chunk 42: -0.0400 - unknown - 'It also avoids the confusion around sexual sele...'
+    42. Chunk 9: -0.0437 - unknown - 'Hmm, but mutation isn't always part of reproduc...'
+    43. Chunk 8: -0.0650 - unknown - 'Option A includes reproduction, migration, muta...'
+    44. Chunk 14: -0.0700 - unknown - 'Genetic hitchhiking is when genes from other in...'
+    45. Chunk 37: -0.0700 - unknown - 'So H isn't entirely accurate either.'
+    46. Chunk 33: -0.0750 - unknown - 'Sexual selection involves displaying certain tr...'
+    47. Chunk 12: -0.1066 - unknown - 'Genetic drift is about random changes in allele...'
+    48. Chunk 45: -0.1125 - unknown - 'Looking back, none of the options directly excl...'
+    49. Chunk 38: -0.1748 - unknown - 'Option I has mutation, genetic shift (which I t...'
+    50. Chunk 40: -0.4033 - unknown - 'Finally, Option J repeats mutation, genetic dri...'
+    51. Chunk 41: -0.5084 - unknown - 'This seems like a straightforward answer, cover...'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-4
+      Text: 'Okay, so I have to figure out what the major forces of evolution are. The options given are A thr...'
+      Tags: unknown
+    Fork 2: Chunks 11-22
+      Text: 'Option B lists mutation, genetic drift, migration, and genetic hitchhiking. Migration refers to m...'
+      Tags: unknown
+    Fork 3: Chunks 25-27
+      Text: 'Option E says adaptation, genetic drift, migration, natural selection. Genetic drift and migratio...'
+      Tags: unknown
+    Fork 4: Chunks 30-31
+      Text: 'Movement could refer to migration or other forms of movement, so that's similar to migration. Aga...'
+      Tags: unknown
+    Fork 5: Chunks 34-36
+      Text: 'However, sexual selection isn't always considered a force of nature; it's more about niche choice...'
+      Tags: unknown
+    Fork 6: Chunks 43-46
+      Text: 'Wait, but earlier I thought that genetic drift is sometimes considered a secondary effect, not a ...'
+      Tags: unknown
+
+Problem 34: Variance = 0.019099
+  Chunks by importance:
+    1. Chunk 3: 0.2504 - unknown - 'First, I should recall what I know about these ...'
+    2. Chunk 5: 0.2400 - unknown - 'On the other hand, many scientists place them a...'
+    3. Chunk 14: 0.1443 - unknown - 'H. Agriculture presence is a key point; Neander...'
+    4. Chunk 0: 0.0421 - unknown - 'Alright, let me try to figure out how to answer...'
+    5. Chunk 12: 0.0416 - unknown - 'F. Limited vocal range suggests earlier develop...'
+    6. Chunk 13: 0.0289 - unknown - 'G. Less adaptability might mean he was in a mor...'
+    7. Chunk 1: 0.0000 - unknown - 'The user is asking why Cro-Magnon man comes hig...'
+    8. Chunk 18: 0.0000 - unknown - ' So I think D is the best answer.'
+    9. Chunk 7: -0.0063 - unknown - 'A. This talks about art and symbols, which does...'
+    10. Chunk 4: -0.0100 - unknown - 'Neanderthals are often cited as the first homin...'
+    11. Chunk 10: -0.0221 - unknown - 'D. More refined appearance, advanced intelligen...'
+    12. Chunk 16: -0.0767 - unknown - 'J. Longer lifespan supports a more advanced sta...'
+    13. Chunk 15: -0.0923 - unknown - 'I. Advanced tool tech indicates more advanced s...'
+    14. Chunk 11: -0.1556 - unknown - 'E. Larger social structures might suggest more ...'
+    15. Chunk 17: -0.1600 - unknown - 'Between D and E, D mentions refined appearance ...'
+    16. Chunk 9: -0.1621 - unknown - 'C. Larger physical size could imply older age o...'
+    17. Chunk 8: -0.1862 - unknown - 'B. Cranial capacity being smaller might indicat...'
+    18. Chunk 2: -0.2239 - unknown - 'I need to pick just one letter from A to J as t...'
+    19. Chunk 6: -0.2450 - unknown - 'Looking at the options:'
+  Potential reasoning forks:
+    Fork 1: Chunks 0-7
+      Text: 'Alright, let me try to figure out how to answer this question. The user is asking why Cro-Magnon ...'
+      Tags: unknown
+    Fork 2: Chunks 10-14
+      Text: 'D. More refined appearance, advanced intelligence—this seems plausible since advanced intelligenc...'
+      Tags: unknown
+

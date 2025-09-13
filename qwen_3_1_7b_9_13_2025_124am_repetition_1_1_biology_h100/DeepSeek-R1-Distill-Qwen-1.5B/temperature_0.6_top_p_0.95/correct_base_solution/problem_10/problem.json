@@ -1,0 +1,4 @@
+{
+  "problem": "Consider the ABO blood group locus in humans, which has six (6) alleles reported for it, of which three are most prominent, I^A, I^B andi. The I^A and I^B alleles are both dominant toiandcodominantto each other. A woman of blood group O marries a man who has blood group B. There are four children in the family: a son and daughter of blood group O; a daughter who has A blood type; and a son who has B blood type. One of the children is adopted. Which child is the adopted child?\n\nA. the daughter of blood group O\n\nB. The son with A blood type\n\nC. the son of blood group O\n\nD. the daughter who has blood group A\n\nE. None of the children are adopted; a genetic mutation occurred\n\nF. The daughter with AB blood type\n\nG. the son who has B blood type\n\nH. The son with AB blood type\n\nI. The daughter with B blood type\n\nJ. The child with a rare blood type not listed",
+  "gt_answer": "D"
+}

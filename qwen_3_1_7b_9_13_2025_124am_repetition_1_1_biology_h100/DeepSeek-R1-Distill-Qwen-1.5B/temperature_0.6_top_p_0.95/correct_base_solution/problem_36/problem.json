@@ -1,0 +1,4 @@
+{
+  "problem": "Hemophilia, a genetic blood disorder, is caused by a recessive sex-linked gene. Aphenotypicallynormal couple had a son with hemophilia. What is the probability that their next child, if a girl, would also have hemophilia?\n\nA. 5% chance\n\nB. 12.5% chance\n\nC. 50% chance\n\nD. 66% chance\n\nE. 10% chance\n\nF. 33% chance\n\nG. No chance\n\nH. 25% chance\n\nI. 100% chance\n\nJ. 75% chance",
+  "gt_answer": "G"
+}

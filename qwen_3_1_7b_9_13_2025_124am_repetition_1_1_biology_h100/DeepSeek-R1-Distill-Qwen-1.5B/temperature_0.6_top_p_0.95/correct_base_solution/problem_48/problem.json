@@ -1,0 +1,4 @@
+{
+  "problem": "IfDNAseis added to a bacterial cell then the DNA is hydrolyzed. The cell cannot make any more proteins and it eventually dies. IfDNAseis added while certain viruses are in the cell, the cells continue to produce new proteins. Explain.\n\nA. The virus proposed in the question contains RNA since it is not affected by DNAse.\n\nB. The virus integrates its DNA into the host's chromosome, which is not targeted by DNAse.\n\nC. The cell has a mechanism to repair DNAse-induced damage rapidly, which the virus exploits.\n\nD. The virus uses a host's DNA replication machinery, which is not susceptible to DNAse.\n\nE. The virus is unaffected by DNAse because it's immune\n\nF. The virus contains DNA\n\nG. The virus has a protective protein coat that prevents DNAse from reaching its DNA.\n\nH. The virus is resistant to DNAse\n\nI. The virus replicates in the cell's nucleus where DNAse cannot reach.",
+  "gt_answer": "A"
+}
